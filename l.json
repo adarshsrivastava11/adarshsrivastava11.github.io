@@ -1,0 +1,5264 @@
+ {
+ 	"name": "Plant protection",
+ 	"children": [{
+ 		"name": "Plant pathology",
+ 		"children": [{
+ 			"name": "Plant disease epidemiology",
+ 			"children": [{
+ 				"name": "Cross contamination"
+ 			}, {
+ 				"name": "Disease classification",
+ 				"children": [{
+ 					"name": "Disease existence",
+ 					"children": [{
+ 						"name": "Soil borne disease"
+ 					}, {
+ 						"name": "Seed borne disease"
+ 					}, {
+ 						"name": "Air borne disease"
+ 					}]
+ 				}, {
+ 					"name": "Disease host"
+ 				}, {
+ 					"name": "Disease symptom"
+ 				}, {
+ 					"name": "Disease occurence",
+ 					"children": [{
+ 						"name": "Endemic disease"
+ 					}, {
+ 						"name": "Epidemic disease"
+ 					}, {
+ 						"name": "Sporadic disease"
+ 					}, {
+ 						"name": "Pandemic disease"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Disease incidence"
+ 			}, {
+ 				"name": "Disease prevalence"
+ 			}, {
+ 				"name": "Disease reservoir"
+ 			}, {
+ 				"name": "Disease severity"
+ 			}, {
+ 				"name": "Disease transmission",
+ 				"children": [{
+ 					"name": "Primary transmission"
+ 				}, {
+ 					"name": "Secondary attack rate"
+ 				}, {
+ 					"name": "Secondary transmission"
+ 				}, {
+ 					"name": "Virus transmission"
+ 				}]
+ 			}, {
+ 				"name": "Disease vector",
+ 				"children": [{
+ 					"name": "Insect vector"
+ 				}, {
+ 					"name": "Virus vector"
+ 				}]
+ 			}, {
+ 				"name": "Epidemiological study",
+ 				"children": [{
+ 					"name": "Case-control study"
+ 				}, {
+ 					"name": "Cluster investigation"
+ 				}]
+ 			}, {
+ 				"name": "Pathogenicity",
+ 				"children": [{
+ 					"name": "Cytopathogenicity"
+ 				}, {
+ 					"name": "Virulence"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Plant etiology",
+ 			"children": [{
+ 				"name": "Disease Triangle",
+ 				"children": [{
+ 					"name": "Susceptible host"
+ 				}, {
+ 					"name": "Favourable condition"
+ 				}, {
+ 					"name": "Pathogen virulence"
+ 				}]
+ 			}, {
+ 				"name": "Disease detection"
+ 			}, {
+ 				"name": "Disease appraisal"
+ 			}, {
+ 				"name": "Disease diagnosis",
+ 				"children": [{
+ 					"name": "Diagnostic sensitivity"
+ 				}, {
+ 					"name": "Diagnostic specificity"
+ 				}, {
+ 					"name": "Early diagnosis"
+ 				}]
+ 			}, {
+ 				"name": "Etiological agent",
+ 				"children": [{
+ 					"name": "Plant pathogen",
+ 					"children": [{
+ 						"name": "Plant pathogenic bacteria"
+ 					}, {
+ 						"name": "Plant pathogenic fungi"
+ 					}, {
+ 						"name": "Plant virus"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Pathogen identification"
+ 			}]
+ 		}, {
+ 			"name": "Disease exposure",
+ 			"children": [{
+ 				"name": "Aggregate exposure"
+ 			}, {
+ 				"name": "Cumulative exposure"
+ 			}, {
+ 				"name": "Exposure duration",
+ 				"children": [{
+ 					"name": "Acute exposure"
+ 				}, {
+ 					"name": "Chronic exposure"
+ 				}]
+ 			}, {
+ 				"name": "Exposure pathway",
+ 				"children": [{
+ 					"name": "Direct contact",
+ 					"children": [{
+ 						"name": "Primary contact"
+ 					}, {
+ 						"name": "Secondary contact"
+ 					}]
+ 				}, {
+ 					"name": "Indirect contact"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Plant health",
+ 			"children": [{
+ 				"name": "Plant damage",
+ 				"children": [{
+ 					"name": "Crop damage"
+ 				}, {
+ 					"name": "Defoliation"
+ 				}, {
+ 					"name": "Fertilizer injury"
+ 				}, {
+ 					"name": "Ice damage"
+ 				}, {
+ 					"name": "Post harvest injury"
+ 				}, {
+ 					"name": "Snow damage"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Mycology",
+ 			"children": [{
+ 				"name": "Fungus distribution"
+ 			}, {
+ 				"name": "Fungus habitat"
+ 			}, {
+ 				"name": "Fungus reproduction",
+ 				"children": [{
+ 					"name": "Vegetative reproduction",
+ 					"children": [{
+ 						"name": "Fragmentation"
+ 					}, {
+ 						"name": "Chlamydospore formation"
+ 					}, {
+ 						"name": "Oidium formation"
+ 					}, {
+ 						"name": "Fission"
+ 					}, {
+ 						"name": "Budding (fungus)"
+ 					}, {
+ 						"name": "Stroma"
+ 					}]
+ 				}, {
+ 					"name": "Spore formation",
+ 					"children": [{
+ 						"name": "Asexual spore",
+ 						"children": [{
+ 							"name": "Zoospore"
+ 						}, {
+ 							"name": "Aplanospore"
+ 						}, {
+ 							"name": "Conidia"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Planogametic copulation",
+ 					"children": [{
+ 						"name": "Isogamous"
+ 					}, {
+ 						"name": "Heterogamous",
+ 						"children": [{
+ 							"name": "Anisogamy"
+ 						}, {
+ 							"name": "Oogamy"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Siphonogamy"
+ 				}, {
+ 					"name": "Spermatangium"
+ 				}, {
+ 					"name": "Somatogamous"
+ 				}]
+ 			}, {
+ 				"name": "Fungus life cycle"
+ 			}, {
+ 				"name": "Pathogenic behaviour"
+ 			}, {
+ 				"name": "Industrial importance"
+ 			}, {
+ 				"name": "Fungus morphology",
+ 				"children": [{
+ 					"name": "Mycelium",
+ 					"children": [{
+ 						"name": "Aseptate mycelium"
+ 					}, {
+ 						"name": "Septate mycelium"
+ 					}]
+ 				}, {
+ 					"name": "Hyphae structure",
+ 					"children": [{
+ 						"name": "Rhizomorphs"
+ 					}, {
+ 						"name": "Plectenchyma"
+ 					}, {
+ 						"name": "Sclerotia"
+ 					}, {
+ 						"name": "Haustoria"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Fungal disease",
+ 				"children": [{
+ 					"name": "Litchi fungal disease",
+ 					"children": [{
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Botryodiplodia theobromae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Aspergillus flavus"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Aspergillus nidulans"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Mango fungal disease",
+ 					"children": [{
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Oidium mangiferae"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Sooty mould",
+ 						"children": [{
+ 							"name": "Meliola mangiferae"
+ 						}]
+ 					}, {
+ 						"name": "Sooty mould",
+ 						"children": [{
+ 							"name": "Capnodium mangiferae"
+ 						}]
+ 					}, {
+ 						"name": "Mango malformation",
+ 						"children": [{
+ 							"name": "Fusarium moniliforme"
+ 						}]
+ 					}, {
+ 						"name": "Blossom blight",
+ 						"children": [{
+ 							"name": "Macrophomina mangiferae"
+ 						}]
+ 					}, {
+ 						"name": "Sooty mould",
+ 						"children": [{
+ 							"name": "Meliola mangiferae"
+ 						}]
+ 					}, {
+ 						"name": "Black mould rot",
+ 						"children": [{
+ 							"name": "Aspergillus niger"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Alternaria alternata"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Papaya fungal disease",
+ 					"children": [{
+ 						"name": "Collar rot",
+ 						"children": [{
+ 							"name": "Pythium aphanidermatum"
+ 						}]
+ 					}, {
+ 						"name": "Stem rot",
+ 						"children": [{
+ 							"name": "Pythium aphanidermatum"
+ 						}]
+ 					}, {
+ 						"name": "Foot rot",
+ 						"children": [{
+ 							"name": "Pythium aphanidermatum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta sulata"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Pythium species"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Pineapple fungal disease",
+ 					"children": [{
+ 						"name": "Storage fruit rot",
+ 						"children": [{
+ 							"name": "Ceratocystis paradoxa"
+ 						}]
+ 					}, {
+ 						"name": "Heart rot",
+ 						"children": [{
+ 							"name": "Phytophthora parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phytophthora species"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Ceratocystis paradoxa"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Pomegranate fungal disease",
+ 					"children": [{
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Cercospora punicae"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora punicae"
+ 						}]
+ 					}, {
+ 						"name": "Storage fruit rot",
+ 						"children": [{
+ 							"name": "Sclerotium rolfsii"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot and fruit rot",
+ 						"children": [{
+ 							"name": "Alternaria alternata"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Apple fungal disease",
+ 					"children": [{
+ 						"name": "Apple scab",
+ 						"children": [{
+ 							"name": "Venturia inaequalis"
+ 						}]
+ 					}, {
+ 						"name": "Collar rot",
+ 						"children": [{
+ 							"name": "Phytophthora cactorum"
+ 						}]
+ 					}, {
+ 						"name": "Whisker's rot",
+ 						"children": [{
+ 							"name": "Rhizopus stolonifer"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Podosphaera leucotricha"
+ 						}]
+ 					}, {
+ 						"name": "Black rot canker",
+ 						"children": [{
+ 							"name": "Botryosphaeria quercuum"
+ 						}]
+ 					}, {
+ 						"name": "Stem black canker",
+ 						"children": [{
+ 							"name": "Coniothecium chomatosporum"
+ 						}]
+ 					}, {
+ 						"name": "Stem bark canker",
+ 						"children": [{
+ 							"name": "Botryosphaeria dothidea"
+ 						}]
+ 					}, {
+ 						"name": "Pink canker",
+ 						"children": [{
+ 							"name": "Botryobasidium salmonicolor"
+ 						}]
+ 					}, {
+ 						"name": "Seedling blight",
+ 						"children": [{
+ 							"name": "Sclerotium rolfsii"
+ 						}]
+ 					}, {
+ 						"name": "Sooty blotch",
+ 						"children": [{
+ 							"name": "Gloeodes promigens"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria mali"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria alternata"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Coniothyrium pyrinum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta species"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Botryosphaeria quercuum"
+ 						}]
+ 					}, {
+ 						"name": "Silver leaf",
+ 						"children": [{
+ 							"name": "Chondrosterm purpureum"
+ 						}]
+ 					}, {
+ 						"name": "Grey mould",
+ 						"children": [{
+ 							"name": "Botrytis cinerea"
+ 						}]
+ 					}, {
+ 						"name": "Blossom wilt",
+ 						"children": [{
+ 							"name": "Sclerotinia laxa"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Banana fungal disease",
+ 					"children": [{
+ 						"name": "Sigatoka leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora musicola"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Gloeosporium musae"
+ 						}]
+ 					}, {
+ 						"name": "Panama wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum cubense"
+ 						}]
+ 					}, {
+ 						"name": "Stem end rot",
+ 						"children": [{
+ 							"name": "Botryodiplodia theobromae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Leaf blight",
+ 						"children": [{
+ 							"name": "Macrophomina phaseolina"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Trichothecium roseum"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Verticillium albo-atrum"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Citrus fungal disease",
+ 					"children": [{
+ 						"name": "Citrus gummosis",
+ 						"children": [{
+ 							"name": "Phytophthora parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Citrus gummosis",
+ 						"children": [{
+ 							"name": "Phytophthora citrophthora"
+ 						}]
+ 					}, {
+ 						"name": "Citrus gummosis",
+ 						"children": [{
+ 							"name": "Phytophthora palmivora"
+ 						}]
+ 					}, {
+ 						"name": "Diplodia gummosis",
+ 						"children": [{
+ 							"name": "Botryodiplodia theobromae"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Acrisporium tingitanium"
+ 						}]
+ 					}, {
+ 						"name": "Citrus scab",
+ 						"children": [{
+ 							"name": "Elsinoe australis"
+ 						}]
+ 					}, {
+ 						"name": "Green mould",
+ 						"children": [{
+ 							"name": "Penicillium digitatum"
+ 						}]
+ 					}, {
+ 						"name": "Stem end rot",
+ 						"children": [{
+ 							"name": "Phomopsis citri"
+ 						}]
+ 					}, {
+ 						"name": "Alternaria black rot",
+ 						"children": [{
+ 							"name": "Alternaria citri"
+ 						}]
+ 					}, {
+ 						"name": "Pink disease",
+ 						"children": [{
+ 							"name": "Corticium salmonicolor"
+ 						}]
+ 					}, {
+ 						"name": "Pink disease",
+ 						"children": [{
+ 							"name": "Botryobasidium salmonicolor"
+ 						}]
+ 					}, {
+ 						"name": "Sooty mould",
+ 						"children": [{
+ 							"name": "Capnodium citri"
+ 						}]
+ 					}, {
+ 						"name": "Sooty mould",
+ 						"children": [{
+ 							"name": "Meliola butleri"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Phytophthora nicotianae var. parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Stem rot",
+ 						"children": [{
+ 							"name": "Phytophthora nicotianae var. parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Leaf fold",
+ 						"children": [{
+ 							"name": "Phytophthora nicotianae var. parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Pythium species"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Phytophthora species"
+ 						}]
+ 					}, {
+ 						"name": "Dry root rot",
+ 						"children": [{
+ 							"name": "Macrophomina phaseolina"
+ 						}]
+ 					}, {
+ 						"name": "Dry root rot",
+ 						"children": [{
+ 							"name": "Diplodia natalensis"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta murrayicola"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Pleospora passeriniana"
+ 						}]
+ 					}, {
+ 						"name": "Fruit spots",
+ 						"children": [{
+ 							"name": "Gloeosporium citri"
+ 						}]
+ 					}, {
+ 						"name": "Twig blight",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Twig blight",
+ 						"children": [{
+ 							"name": "Botryodiplodia theobromae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Guava fungal disease",
+ 					"children": [{
+ 						"name": "Guava wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum psidii"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum gloeosporioides"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora psidii"
+ 						}]
+ 					}, {
+ 						"name": "Fruit canker",
+ 						"children": [{
+ 							"name": "Pestalotiopsis psidi"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Phomopsis psidi"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Phytophthora parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Sooty mould",
+ 						"children": [{
+ 							"name": "Meliola psidii"
+ 						}]
+ 					}, {
+ 						"name": "Rhizopus rot",
+ 						"children": [{
+ 							"name": "Rhizopus stolonifer"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Cole crop fungal disease",
+ 					"children": [{
+ 						"name": "Club root",
+ 						"children": [{
+ 							"name": "Plasmodiophora brassicae"
+ 						}]
+ 					}, {
+ 						"name": "Rhizoctonia damping off",
+ 						"children": [{
+ 							"name": "Rhizoctonia solani kuhn"
+ 						}]
+ 					}, {
+ 						"name": "Downy mildew",
+ 						"children": [{
+ 							"name": "Peronospora parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe cruciferarum"
+ 						}]
+ 					}, {
+ 						"name": "Black leg of cabbage",
+ 						"children": [{
+ 							"name": "Phoma lingam"
+ 						}]
+ 					}, {
+ 						"name": "Alternaria leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria brassicae"
+ 						}]
+ 					}, {
+ 						"name": "Alternaria leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria brassicicola"
+ 						}]
+ 					}, {
+ 						"name": "Alternaria leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria raphani"
+ 						}]
+ 					}, {
+ 						"name": "Ring spots of cabbage and cauliflower",
+ 						"children": [{
+ 							"name": "Mycosphaerella brassicicola"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum higginsianum"
+ 						}]
+ 					}, {
+ 						"name": "Cauliflower anthracnose",
+ 						"children": [{
+ 							"name": "Gloeosporium concentricum"
+ 						}]
+ 					}, {
+ 						"name": "Cabbage yellow",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum"
+ 						}]
+ 					}, {
+ 						"name": "Cabbage damping off",
+ 						"children": [{
+ 							"name": "Pythium aphanidermatum"
+ 						}]
+ 					}, {
+ 						"name": "Cabbage damping off",
+ 						"children": [{
+ 							"name": "Pythium species"
+ 						}]
+ 					}, {
+ 						"name": "Cabbage damping off",
+ 						"children": [{
+ 							"name": "Phytophthora species"
+ 						}]
+ 					}, {
+ 						"name": "White rust",
+ 						"children": [{
+ 							"name": "Albugo candida"
+ 						}]
+ 					}, {
+ 						"name": "Sclerotinia stalk rot",
+ 						"children": [{
+ 							"name": "Sclerotinia sclerotiorum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria raphani"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta brassicae"
+ 						}]
+ 					}, {
+ 						"name": "Black spot",
+ 						"children": [{
+ 							"name": "Alternaria brassicae"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum higginsianum"
+ 						}]
+ 					}, {
+ 						"name": "Cauliflower anthracnose",
+ 						"children": [{
+ 							"name": "Gloeosporium concentricum"
+ 						}]
+ 					}, {
+ 						"name": "Seedling blight and wilt",
+ 						"children": [{
+ 							"name": "Ozonium texanum var. parasiticum"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe cruciferarum"
+ 						}]
+ 					}, {
+ 						"name": "Root rot",
+ 						"children": [{
+ 							"name": "Olpidium brassicae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Cucurbitaceous vegetables fungal disease",
+ 					"children": [{
+ 						"name": "Cottony fruit rot of cucurbits",
+ 						"children": [{
+ 							"name": "Pythium aphanidermatum"
+ 						}]
+ 					}, {
+ 						"name": "Cottony fruit rot of cucurbits",
+ 						"children": [{
+ 							"name": "Pythium butleri"
+ 						}]
+ 					}, {
+ 						"name": "Downy mildew of cucurbits",
+ 						"children": [{
+ 							"name": "Pseudoperonospora cubensis"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe cichoracearum"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Sphaerotheca fuliginea"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose of cucurbits",
+ 						"children": [{
+ 							"name": "Colletotrichum lagenarium"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora citrullina"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora trichosanthes"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora memordica"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora lagenaria"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora cucurbiticola"
+ 						}]
+ 					}, {
+ 						"name": "Fusarium root rot",
+ 						"children": [{
+ 							"name": "Fusarium solani"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria cucumerina"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora citrullina"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora cucurbiticola"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora lagenaria"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora memordica"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phoma herbarum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora trichosanthes var. Anguinae"
+ 						}]
+ 					}, {
+ 						"name": "Blossom blight",
+ 						"children": [{
+ 							"name": "Choanephora cucurbitarum"
+ 						}]
+ 					}, {
+ 						"name": "Charcoal rot",
+ 						"children": [{
+ 							"name": "Cladosporium cucumerinum"
+ 						}]
+ 					}, {
+ 						"name": "Gummy stem blight",
+ 						"children": [{
+ 							"name": "Mycosphaerella citrullina"
+ 						}]
+ 					}, {
+ 						"name": "Dry fruit rot",
+ 						"children": [{
+ 							"name": "Rhizopus stolonifer"
+ 						}]
+ 					}, {
+ 						"name": "Stem rot",
+ 						"children": [{
+ 							"name": "Sclerotium rolfsii"
+ 						}]
+ 					}, {
+ 						"name": "Stem rot and fruit gall",
+ 						"children": [{
+ 							"name": "Synchytrium laginariae"
+ 						}]
+ 					}, {
+ 						"name": "Fusarium wilt of musk melon",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum melonis"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Brinjal fungal disease",
+ 					"children": [{
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria melongenae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria solani"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora melongenae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora solani melongenae"
+ 						}]
+ 					}, {
+ 						"name": "Phomopsis blight and furit rot",
+ 						"children": [{
+ 							"name": "Phomopsis vexans"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Pythium"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Phytophthora"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Rhizoctonia"
+ 						}]
+ 					}, {
+ 						"name": "Sclerotinia blight",
+ 						"children": [{
+ 							"name": "Sclerotinia sclerotiorum"
+ 						}]
+ 					}, {
+ 						"name": "Verticillium wilt",
+ 						"children": [{
+ 							"name": "Verticillium dahliae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta hortorum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Colletotrichum dematium"
+ 						}]
+ 					}, {
+ 						"name": "Wet rot",
+ 						"children": [{
+ 							"name": "Choanephora cucurbitarum"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Chrysosporium pruinosum"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Trichothecium roseum"
+ 						}]
+ 					}, {
+ 						"name": "Root rot",
+ 						"children": [{
+ 							"name": "Colletotrichum nigrum"
+ 						}]
+ 					}, {
+ 						"name": "White rot",
+ 						"children": [{
+ 							"name": "Pellicularia rolfsii"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe cichoracearum"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Leveillula taurica"
+ 						}]
+ 					}, {
+ 						"name": "Charcoal rot",
+ 						"children": [{
+ 							"name": "Macrophomina phaseolina"
+ 						}]
+ 					}, {
+ 						"name": "Sclerotinia disease",
+ 						"children": [{
+ 							"name": "Sclerotinia sclerotiorum"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum lagenarium"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Tomato fungal disease",
+ 					"children": [{
+ 						"name": "Early blight",
+ 						"children": [{
+ 							"name": "Alternaria solani"
+ 						}]
+ 					}, {
+ 						"name": "Early blight",
+ 						"children": [{
+ 							"name": "Alternaria alternata lycopersici"
+ 						}]
+ 					}, {
+ 						"name": "Late blight",
+ 						"children": [{
+ 							"name": "Phytophthora infestans"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Pythium"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Phytophthora"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Rhizoctonia solani"
+ 						}]
+ 					}, {
+ 						"name": "Seedling blight",
+ 						"children": [{
+ 							"name": "Rhizoctonia species"
+ 						}]
+ 					}, {
+ 						"name": "Seedling blight",
+ 						"children": [{
+ 							"name": "Alternaria species"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Phytophthora parasitica"
+ 						}]
+ 					}, {
+ 						"name": "Phoma rot",
+ 						"children": [{
+ 							"name": "Phoma destructiva"
+ 						}]
+ 					}, {
+ 						"name": "Septoria leaf spot",
+ 						"children": [{
+ 							"name": "Septoria lycopersici"
+ 						}]
+ 					}, {
+ 						"name": "Fusarium wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum Lycopersici"
+ 						}]
+ 					}, {
+ 						"name": "Verticillium wilt",
+ 						"children": [{
+ 							"name": "Verticillium albo-atrum"
+ 						}]
+ 					}, {
+ 						"name": "Verticillium wilt",
+ 						"children": [{
+ 							"name": "Verticillium tricorpus"
+ 						}]
+ 					}, {
+ 						"name": "Verticillium wilt",
+ 						"children": [{
+ 							"name": "Verticillium dahliae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria longissima"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora diffusa"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora lycopersici"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta lycopersici"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Cladosporium tenuissimum"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Colletotrichum capsici"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Cylindrocladium scoparium"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Fusarium roseum"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Rhizoctonia solani"
+ 						}]
+ 					}, {
+ 						"name": "Leaf mould",
+ 						"children": [{
+ 							"name": "Cladosporium fulvum"
+ 						}]
+ 					}, {
+ 						"name": "Tomato rot",
+ 						"children": [{
+ 							"name": "Drechslera australiensis"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Leveillula taurica"
+ 						}]
+ 					}, {
+ 						"name": "Charcoal rot",
+ 						"children": [{
+ 							"name": "Macrophomina phaseolina"
+ 						}]
+ 					}, {
+ 						"name": "Wilt",
+ 						"children": [{
+ 							"name": "Ozonium texanum var parasiticum"
+ 						}]
+ 					}, {
+ 						"name": "Root and stem rot",
+ 						"children": [{
+ 							"name": "Pellicularia filamentosa"
+ 						}]
+ 					}, {
+ 						"name": "Sclerotinia disease",
+ 						"children": [{
+ 							"name": "Sclerotinia sclerotiorum"
+ 						}]
+ 					}, {
+ 						"name": "Foot rot and wilt",
+ 						"children": [{
+ 							"name": "Sclerotium rolfsii"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Carrot fungal disease",
+ 					"children": [{
+ 						"name": "Alternaria blight",
+ 						"children": [{
+ 							"name": "Alternaria radicina"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf blight",
+ 						"children": [{
+ 							"name": "Cercospora carotae"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe polygoni"
+ 						}]
+ 					}, {
+ 						"name": "Black rot",
+ 						"children": [{
+ 							"name": "Alternaria radicina"
+ 						}]
+ 					}, {
+ 						"name": "Black rot",
+ 						"children": [{
+ 							"name": "Stemphylium radicinum"
+ 						}]
+ 					}, {
+ 						"name": "Storage rot",
+ 						"children": [{
+ 							"name": "Botrytis cinerea"
+ 						}]
+ 					}, {
+ 						"name": "Watery soft rot",
+ 						"children": [{
+ 							"name": "Sclerotinia sclerotiorum"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Okra fungal disease",
+ 					"children": [{
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Pythium species"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Phytophthora species"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Rhizoctonia species"
+ 						}]
+ 					}, {
+ 						"name": "Fusarium wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum vasinfectum"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora abelmoschi"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora hibisci"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora hibiscona"
+ 						}]
+ 					}, {
+ 						"name": "Cercospora leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora malayensis"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe species"
+ 						}]
+ 					}, {
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum capsici"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta hibiscini"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria hibiscinum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Myrothecium roridum"
+ 						}]
+ 					}, {
+ 						"name": "Pod and leaf spot",
+ 						"children": [{
+ 							"name": "Ascochyta abelmoschi"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Choanephora cucurbitarum"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Pythium indicum"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe cichoracearum"
+ 						}]
+ 					}, {
+ 						"name": "Charcoal rot",
+ 						"children": [{
+ 							"name": "Macrophomina phaseolina"
+ 						}]
+ 					}, {
+ 						"name": "Root rot",
+ 						"children": [{
+ 							"name": "Pythium butleri"
+ 						}]
+ 					}, {
+ 						"name": "Root and stem rot",
+ 						"children": [{
+ 							"name": "Sclerotium rolfsii"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Sphaerotheca fuliginea"
+ 						}]
+ 					}, {
+ 						"name": "Leaf and stem gall",
+ 						"children": [{
+ 							"name": "Synchytrium hibisci"
+ 						}]
+ 					}, {
+ 						"name": "Rust",
+ 						"children": [{
+ 							"name": "Uromyces heterogeneous"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Potato fungal disease",
+ 					"children": [{
+ 						"name": "Late blight",
+ 						"children": [{
+ 							"name": "Phytophthora infestans"
+ 						}]
+ 					}, {
+ 						"name": "Early blight",
+ 						"children": [{
+ 							"name": "Alternaria solani"
+ 						}]
+ 					}, {
+ 						"name": "Black scurf",
+ 						"children": [{
+ 							"name": "Rhizoctonia solani"
+ 						}]
+ 					}, {
+ 						"name": "Charcoal rot",
+ 						"children": [{
+ 							"name": "Macrophomina phaseolina"
+ 						}]
+ 					}, {
+ 						"name": "Common scab",
+ 						"children": [{
+ 							"name": "Streptomyces species"
+ 						}]
+ 					}, {
+ 						"name": "Powdery scab",
+ 						"children": [{
+ 							"name": "Spongospora subterranea"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Ascochyta solanicola"
+ 						}]
+ 					}, {
+ 						"name": "Stem canker",
+ 						"children": [{
+ 							"name": "Cercospora solanituberosi"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Erysiphe cichoracearum"
+ 						}]
+ 					}, {
+ 						"name": "Dry rot and wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum"
+ 						}]
+ 					}, {
+ 						"name": "Wilt",
+ 						"children": [{
+ 							"name": "Fusarium solani"
+ 						}]
+ 					}, {
+ 						"name": "Pink rot",
+ 						"children": [{
+ 							"name": "Phytophthora erythroseptica"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Pythium aphanidermatum"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Chilli fungal disease",
+ 					"children": [{
+ 						"name": "Anthracnose",
+ 						"children": [{
+ 							"name": "Colletotrichum capsici"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Pythium aphanidermatum"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Oidiopsis taurica"
+ 						}]
+ 					}, {
+ 						"name": "Alternaria blight",
+ 						"children": [{
+ 							"name": "Alternaria solani"
+ 						}]
+ 					}, {
+ 						"name": "Fusarium blight",
+ 						"children": [{
+ 							"name": "Fusarium annuum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Helminthosporium capsicicola"
+ 						}]
+ 					}, {
+ 						"name": "Leaf blight",
+ 						"children": [{
+ 							"name": "Periconia byssoides"
+ 						}]
+ 					}, {
+ 						"name": "Fruit spots",
+ 						"children": [{
+ 							"name": "Alternaria alternata"
+ 						}]
+ 					}, {
+ 						"name": "Fruit rot",
+ 						"children": [{
+ 							"name": "Phytophthora nicotianae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Carnation fungal disease",
+ 					"children": [{
+ 						"name": "Wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum dianthi"
+ 						}]
+ 					}, {
+ 						"name": "Grey mould",
+ 						"children": [{
+ 							"name": "Botrytis cinerea"
+ 						}]
+ 					}, {
+ 						"name": "Basal rot",
+ 						"children": [{
+ 							"name": "Sclerotium rolfsii"
+ 						}]
+ 					}, {
+ 						"name": "Alternaria blight",
+ 						"children": [{
+ 							"name": "Alternaria dianthi"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Oidium species"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria dianthi"
+ 						}]
+ 					}, {
+ 						"name": "Foot rot",
+ 						"children": [{
+ 							"name": "Pythium species"
+ 						}]
+ 					}, {
+ 						"name": "Die back",
+ 						"children": [{
+ 							"name": "Fusarium roseum"
+ 						}]
+ 					}, {
+ 						"name": "Collar rot",
+ 						"children": [{
+ 							"name": "Rhizoctonia solani"
+ 						}]
+ 					}, {
+ 						"name": "Bud rot",
+ 						"children": [{
+ 							"name": "Fusarium poae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Chrysanthemum fungal disease",
+ 					"children": [{
+ 						"name": "Brown rust",
+ 						"children": [{
+ 							"name": "Puccinia chrysanthemi"
+ 						}]
+ 					}, {
+ 						"name": "Wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum chrysanthemi"
+ 						}]
+ 					}, {
+ 						"name": "Stem rot",
+ 						"children": [{
+ 							"name": "Fusarium solani"
+ 						}]
+ 					}, {
+ 						"name": "Root rot",
+ 						"children": [{
+ 							"name": "Pythium species"
+ 						}]
+ 					}, {
+ 						"name": "Damping off",
+ 						"children": [{
+ 							"name": "Rhizoctonia solani"
+ 						}]
+ 					}, {
+ 						"name": "Ray blight",
+ 						"children": [{
+ 							"name": "Didymella chrysanthemi"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria chrysanthemi"
+ 						}]
+ 					}, {
+ 						"name": "Petal blight",
+ 						"children": [{
+ 							"name": "Itersonilia perplexans"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Oidium chrysanthemi"
+ 						}]
+ 					}, {
+ 						"name": "Grey mould",
+ 						"children": [{
+ 							"name": "Botrytis cinerea"
+ 						}]
+ 					}, {
+ 						"name": "Sclerotinia rot",
+ 						"children": [{
+ 							"name": "Sclerotinia sclerotiorum"
+ 						}]
+ 					}, {
+ 						"name": "White rust",
+ 						"children": [{
+ 							"name": "Puccinia horiana"
+ 						}]
+ 					}, {
+ 						"name": "Verticillium wilt",
+ 						"children": [{
+ 							"name": "Verticillium albo-atrum"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Gladiolus fungal disease",
+ 					"children": [{
+ 						"name": "Dry rot",
+ 						"children": [{
+ 							"name": "Stromatinia gladioli"
+ 						}]
+ 					}, {
+ 						"name": "Wilt",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum gladioli"
+ 						}]
+ 					}, {
+ 						"name": "Neck rot",
+ 						"children": [{
+ 							"name": "Botrytis gladidorum"
+ 						}]
+ 					}, {
+ 						"name": "Leaf and flower blight",
+ 						"children": [{
+ 							"name": "Curvularia trifoli"
+ 						}]
+ 					}, {
+ 						"name": "Fusarium dry rot",
+ 						"children": [{
+ 							"name": "Fusarium oxysporum gladioli"
+ 						}]
+ 					}, {
+ 						"name": "Corm rot",
+ 						"children": [{
+ 							"name": "Penicillium gladioli"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Phyllosticta gladioloides"
+ 						}]
+ 					}, {
+ 						"name": "Sclerotinia rot",
+ 						"children": [{
+ 							"name": "Sclerotinia draytoni"
+ 						}]
+ 					}, {
+ 						"name": "Hard rot",
+ 						"children": [{
+ 							"name": "Septoria gladioli"
+ 						}]
+ 					}, {
+ 						"name": "Stemphylium leaf blight",
+ 						"children": [{
+ 							"name": "Stemphylium species"
+ 						}]
+ 					}, {
+ 						"name": "Smut",
+ 						"children": [{
+ 							"name": "Urocystis gladiolicola"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Jasmine fungal disease",
+ 					"children": [{
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora jasminicola"
+ 						}]
+ 					}, {
+ 						"name": "Root rot",
+ 						"children": [{
+ 							"name": "Clitocybe tabescens"
+ 						}]
+ 					}, {
+ 						"name": "Blossom blight",
+ 						"children": [{
+ 							"name": "Phoma species"
+ 						}]
+ 					}, {
+ 						"name": "Rust",
+ 						"children": [{
+ 							"name": "Uromyces hobsoni"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Phyllactinia corylea"
+ 						}]
+ 					}, {
+ 						"name": "Sooty mould",
+ 						"children": [{
+ 							"name": "Meliola jasminicola"
+ 						}]
+ 					}, {
+ 						"name": "Leaf blight",
+ 						"children": [{
+ 							"name": "Glomerella cingulata"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Rose fungal disease",
+ 					"children": [{
+ 						"name": "Black spot",
+ 						"children": [{
+ 							"name": "Diplocarpon rosae"
+ 						}]
+ 					}, {
+ 						"name": "Powdery mildew",
+ 						"children": [{
+ 							"name": "Sphaerotheca pannosa"
+ 						}]
+ 					}, {
+ 						"name": "Rose rust",
+ 						"children": [{
+ 							"name": "Phragmidium mucronatum"
+ 						}]
+ 					}, {
+ 						"name": "Die back",
+ 						"children": [{
+ 							"name": "Diplodia rosarum"
+ 						}]
+ 					}, {
+ 						"name": "Grey mould",
+ 						"children": [{
+ 							"name": "Botrytis cinerea"
+ 						}]
+ 					}, {
+ 						"name": "Verticillium wilt",
+ 						"children": [{
+ 							"name": "Verticillium dahliae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Alternaria alternata"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Cercospora rosicola"
+ 						}]
+ 					}, {
+ 						"name": "Leaf spot",
+ 						"children": [{
+ 							"name": "Pestalotiopsis lespedezae"
+ 						}]
+ 					}, {
+ 						"name": "Leaf rust",
+ 						"children": [{
+ 							"name": "Phragmidium butleri"
+ 						}]
+ 					}, {
+ 						"name": "Downy mildew",
+ 						"children": [{
+ 							"name": "Peronospora sparsa"
+ 						}]
+ 					}]
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Bacteriology",
+ 			"children": [{
+ 				"name": "Bacterial reproduction"
+ 			}, {
+ 				"name": "Bacterial disease",
+ 				"children": [{
+ 					"name": "Potato bacterial disease",
+ 					"children": [{
+ 						"name": "Brown rot",
+ 						"children": [{
+ 							"name": "Pseudomonas solanacearum"
+ 						}]
+ 					}, {
+ 						"name": "Soft rot",
+ 						"children": [{
+ 							"name": "Erwinia carotovora"
+ 						}]
+ 					}, {
+ 						"name": "Ring rot",
+ 						"children": [{
+ 							"name": "Corynebacterium sepedonicum"
+ 						}]
+ 					}, {
+ 						"name": "Common scab",
+ 						"children": [{
+ 							"name": "Streptomyces scabies"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Apple bacterial disease",
+ 					"children": [{
+ 						"name": "Hairy root",
+ 						"children": [{
+ 							"name": "Agrobacterium rhizogenes"
+ 						}]
+ 					}, {
+ 						"name": "Crown gall",
+ 						"children": [{
+ 							"name": "Agrobacterium tumefaciens"
+ 						}]
+ 					}, {
+ 						"name": "Blister spot",
+ 						"children": [{
+ 							"name": "Pseudomonas syringae"
+ 						}]
+ 					}, {
+ 						"name": "Fire blight",
+ 						"children": [{
+ 							"name": "Erwinia amylovora"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Banana bacterial disease",
+ 					"children": [{
+ 						"name": "Tip over",
+ 						"children": [{
+ 							"name": "Erwinia carotovora"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial wilt",
+ 						"children": [{
+ 							"name": "Xanthomonas campestris"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Citrus bacterial disease",
+ 					"children": [{
+ 						"name": "Citrus canker",
+ 						"children": [{
+ 							"name": "Xanthomonas campestris citri"
+ 						}]
+ 					}, {
+ 						"name": "Citrus leaf spot",
+ 						"children": [{
+ 							"name": "Xanthomonas campestris citrumelo"
+ 						}]
+ 					}, {
+ 						"name": "Citrus blast",
+ 						"children": [{
+ 							"name": "Pseudomonas syringae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Mango bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial canker",
+ 						"children": [{
+ 							"name": "Xanthomonas campestris mangiferae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Pomegranate bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial leaf spot",
+ 						"children": [{
+ 							"name": "Xanthomonas campestris punicae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Brinjal bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial wilt",
+ 						"children": [{
+ 							"name": "Pseudomonas solanacearum"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Carrot bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial soft rot",
+ 						"children": [{
+ 							"name": "Erwinia carotovora"
+ 						}]
+ 					}, {
+ 						"name": "Leaf blight",
+ 						"children": [{
+ 							"name": "Xanthomonas compestris carotae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Chilli bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial leaf spot",
+ 						"children": [{
+ 							"name": "Xanthomonas vesicatoria"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial wilt",
+ 						"children": [{
+ 							"name": "Pseudomonas solanacearum"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Cucurbit bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial leaf spot",
+ 						"children": [{
+ 							"name": "Xanthomonas campestris cucurbit"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial soft rot",
+ 						"children": [{
+ 							"name": "Erwinia aroideae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Tomato bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial wilt",
+ 						"children": [{
+ 							"name": "Pseudomonas solanacearum"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial canker",
+ 						"children": [{
+ 							"name": "Clavibacter michiganensis"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial speck",
+ 						"children": [{
+ 							"name": "Pseudomonas syringae tomato"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial spot",
+ 						"children": [{
+ 							"name": "Xanthomonas compestris vesicatoria"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Anthurium bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial wilt",
+ 						"children": [{
+ 							"name": "Ralstonia solanacearum"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial blight",
+ 						"children": [{
+ 							"name": "Xanthomonas compestris dieffenbachiae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Carnation bacterial disease",
+ 					"children": [{
+ 						"name": "Leaf gall",
+ 						"children": [{
+ 							"name": "Corynebacterium fascians"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial wilt",
+ 						"children": [{
+ 							"name": "Pseudomonas caryophylli"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Chrysanthemum bacterial disease",
+ 					"children": [{
+ 						"name": "Leaf gall",
+ 						"children": [{
+ 							"name": "Corynebacterium fascians"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial leaf spot",
+ 						"children": [{
+ 							"name": "Pseudomonas cichorii"
+ 						}]
+ 					}, {
+ 						"name": "Bacterial blight",
+ 						"children": [{
+ 							"name": "Erwinia chrysanthemi"
+ 						}]
+ 					}, {
+ 						"name": "Crown gall",
+ 						"children": [{
+ 							"name": "Agrobacterium tumefaciens"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Gladiolus bacterial disease",
+ 					"children": [{
+ 						"name": "Bacterial blight",
+ 						"children": [{
+ 							"name": "Xanthomonas gummisudans"
+ 						}]
+ 					}, {
+ 						"name": "Neck rot",
+ 						"children": [{
+ 							"name": "Pseudomonas marginata"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Jasmine bacterial disease",
+ 					"children": [{
+ 						"name": "Crown gall",
+ 						"children": [{
+ 							"name": "Agrobacterium tumefaciens"
+ 						}]
+ 					}]
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Virology",
+ 			"children": [{
+ 				"name": "Virus replication"
+ 			}, {
+ 				"name": "Viral disease",
+ 				"children": [{
+ 					"name": "Tomato viral disease",
+ 					"children": [{
+ 						"name": "Tomato mosaic"
+ 					}, {
+ 						"name": "Leaf curl"
+ 					}, {
+ 						"name": "Spotted wilt"
+ 					}, {
+ 						"name": "Fern leaf"
+ 					}]
+ 				}, {
+ 					"name": "Brinjal viral disease",
+ 					"children": [{
+ 						"name": "Egg plant mosaic"
+ 					}, {
+ 						"name": "Ring spot"
+ 					}, {
+ 						"name": "Little leaf"
+ 					}]
+ 				}, {
+ 					"name": "Chilli viral disease",
+ 					"children": [{
+ 						"name": "Mosaic"
+ 					}, {
+ 						"name": "Leaf curl"
+ 					}, {
+ 						"name": "Spotted wilt"
+ 					}]
+ 				}, {
+ 					"name": "Cabbage viral disease",
+ 					"children": [{
+ 						"name": "Black ring spot"
+ 					}]
+ 				}, {
+ 					"name": "Cauliflower viral disease",
+ 					"children": [{
+ 						"name": "Cauliflower mosaic"
+ 					}]
+ 				}, {
+ 					"name": "Radish viral disease",
+ 					"children": [{
+ 						"name": "Radish mosaic"
+ 					}]
+ 				}, {
+ 					"name": "Carrot viral disease",
+ 					"children": [{
+ 						"name": "Carrot mottle"
+ 					}]
+ 				}, {
+ 					"name": "Bitter gourd viral disease",
+ 					"children": [{
+ 						"name": "Bitter gourd mosaic"
+ 					}]
+ 				}, {
+ 					"name": "Citrus viral disease",
+ 					"children": [{
+ 						"name": "Citrus tristeza"
+ 					}, {
+ 						"name": "Citrus exocortis viroid"
+ 					}, {
+ 						"name": "Citrus variegation"
+ 					}, {
+ 						"name": "Citrus mosaic"
+ 					}]
+ 				}, {
+ 					"name": "Papaya viral disease",
+ 					"children": [{
+ 						"name": "Papaya mosaic"
+ 					}, {
+ 						"name": "Papaya ring spot"
+ 					}, {
+ 						"name": "Leaf curl of papaya"
+ 					}]
+ 				}, {
+ 					"name": "Apple viral disease",
+ 					"children": [{
+ 						"name": "Apple mosaic"
+ 					}, {
+ 						"name": "Apple green crinkle"
+ 					}, {
+ 						"name": "Apple stem grooving"
+ 					}, {
+ 						"name": "Apple rough skin"
+ 					}, {
+ 						"name": "Apple leaf pucker"
+ 					}]
+ 				}, {
+ 					"name": "Banana viral disease",
+ 					"children": [{
+ 						"name": "Banana bunchy top"
+ 					}, {
+ 						"name": "Banana bract mosaic"
+ 					}]
+ 				}, {
+ 					"name": "Potato viral disease",
+ 					"children": [{
+ 						"name": "Potato leaf roll"
+ 					}, {
+ 						"name": "Potato potexvirus x"
+ 					}, {
+ 						"name": "Potato aucuba mosaic"
+ 					}, {
+ 						"name": "Potato carlavirus M"
+ 					}, {
+ 						"name": "Potato carlavirus S"
+ 					}, {
+ 						"name": "Potato potyvirus Y"
+ 					}, {
+ 						"name": "Potato yellow dwarf"
+ 					}, {
+ 						"name": "Potato spindle tuber"
+ 					}, {
+ 						"name": "Chilli mosaic"
+ 					}]
+ 				}, {
+ 					"name": "Rose viral disease",
+ 					"children": [{
+ 						"name": "Rose wilt"
+ 					}, {
+ 						"name": "Die back"
+ 					}, {
+ 						"name": "Rose mosaic disease"
+ 					}]
+ 				}, {
+ 					"name": "Gladiolus viral disease",
+ 					"children": [{
+ 						"name": "Ring spot"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Nematode disease",
+ 				"children": [{
+ 					"name": "Tomato nematode disease",
+ 					"children": [{
+ 						"name": "Root knot of tomato",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}, {
+ 						"name": "Reniform nematode",
+ 						"children": [{
+ 							"name": "Rotylenchulus reniformis"
+ 						}]
+ 					}, {
+ 						"name": "Cyst nematode",
+ 						"children": [{
+ 							"name": "Globodera pallida"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Brinjal nematode disease",
+ 					"children": [{
+ 						"name": "Root knot",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}, {
+ 						"name": "Reniform nematode",
+ 						"children": [{
+ 							"name": "Rotylenchulus reniformis"
+ 						}]
+ 					}, {
+ 						"name": "Cyst nematode",
+ 						"children": [{
+ 							"name": "Globodera pallida"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Carrot nematode disease",
+ 					"children": [{
+ 						"name": "Carrot stunting",
+ 						"children": [{
+ 							"name": "Longidorus species"
+ 						}]
+ 					}, {
+ 						"name": "Root knot",
+ 						"children": [{
+ 							"name": "Meloidogyne species"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Chilli nematode disease",
+ 					"children": [{
+ 						"name": "Root knot",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}, {
+ 						"name": "Reniform nematode",
+ 						"children": [{
+ 							"name": "Rotylenchus reniformis"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Cole crops nematode disease",
+ 					"children": [{
+ 						"name": "Reniform nematode",
+ 						"children": [{
+ 							"name": "Rotylenchus reniformis"
+ 						}]
+ 					}, {
+ 						"name": "Stunt nematode",
+ 						"children": [{
+ 							"name": "Tylenchorhynchus brassicae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Cucurbit nematode disease",
+ 					"children": [{
+ 						"name": "Root knot",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Okra nematode disease",
+ 					"children": [{
+ 						"name": "Root knot",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Chrysanthemum nematode disease",
+ 					"children": [{
+ 						"name": "Leaf and bud nematode",
+ 						"children": [{
+ 							"name": "Aphelenchoides ritzemabosi"
+ 						}]
+ 					}, {
+ 						"name": "Lesion nematode",
+ 						"children": [{
+ 							"name": "Pratylenchus coffeae"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Carnation nematode disease",
+ 					"children": [{
+ 						"name": "Root knot nematode",
+ 						"children": [{
+ 							"name": "Meloidogyne species"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Gladiolus nematode disease",
+ 					"children": [{
+ 						"name": "Root knot nematode",
+ 						"children": [{
+ 							"name": "Meloidogyne species"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Jasmine nematode disease",
+ 					"children": [{
+ 						"name": "Root knot nematode",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}, {
+ 						"name": "Burrowing nematode",
+ 						"children": [{
+ 							"name": "Radopholus similis"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Rose nematode disease",
+ 					"children": [{
+ 						"name": "Lesion nematode",
+ 						"children": [{
+ 							"name": "Pratylenchus species"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Potato nematode disease",
+ 					"children": [{
+ 						"name": "Cyst nematode",
+ 						"children": [{
+ 							"name": "Heterodera rostochiensis"
+ 						}]
+ 					}, {
+ 						"name": "Root knot",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}, {
+ 						"name": "Reniform nematode",
+ 						"children": [{
+ 							"name": "Rotylenchus reniformis"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Banana nematode disease",
+ 					"children": [{
+ 						"name": "Burrowing nematode",
+ 						"children": [{
+ 							"name": "Radopholus similis"
+ 						}]
+ 					}, {
+ 						"name": "Spiral nematode disease",
+ 						"children": [{
+ 							"name": "Helicotylenchus multicinctus"
+ 						}]
+ 					}, {
+ 						"name": "Root lesion nematode",
+ 						"children": [{
+ 							"name": "Pratylenchus species"
+ 						}]
+ 					}, {
+ 						"name": "Root knot nematode",
+ 						"children": [{
+ 							"name": "Meloidogyne species"
+ 						}]
+ 					}, {
+ 						"name": "Cyst nematode",
+ 						"children": [{
+ 							"name": "Heterodera species"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Citrus nematode disease",
+ 					"children": [{
+ 						"name": "Citrus nematode",
+ 						"children": [{
+ 							"name": "Tylenchulus semipenetrans"
+ 						}]
+ 					}, {
+ 						"name": "Lesion nematode",
+ 						"children": [{
+ 							"name": "Pratylenchus coffeae"
+ 						}]
+ 					}, {
+ 						"name": "Lesion nematode",
+ 						"children": [{
+ 							"name": "Hoplolaimus indicus"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Papaya nematode disease",
+ 					"children": [{
+ 						"name": "Root knot",
+ 						"children": [{
+ 							"name": "Meloidogyne incognita"
+ 						}]
+ 					}, {
+ 						"name": "Reniform nematode",
+ 						"children": [{
+ 							"name": "Rotylenchus reniformis"
+ 						}]
+ 					}]
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Abiotic stress",
+ 			"children": [{
+ 				"name": "Ecological",
+ 				"children": [{
+ 					"name": "Heat stress"
+ 				}]
+ 			}, {
+ 				"name": "Edaphic factor",
+ 				"children": [{
+ 					"name": "Drought stress",
+ 					"children": [{
+ 						"name": "Water deficit"
+ 					}, {
+ 						"name": "Adaptive mechanism",
+ 						"children": [{
+ 							"name": "Anatomical mechanism"
+ 						}, {
+ 							"name": "Biochemical mechanism"
+ 						}, {
+ 							"name": "Physiological mechanism"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Nutrient deficiency",
+ 					"children": [{
+ 						"name": "Boron deficiency"
+ 					}, {
+ 						"name": "Magnesium deficiency"
+ 					}, {
+ 						"name": "Manganese deficiency"
+ 					}, {
+ 						"name": "Nitrogen deficiency"
+ 					}, {
+ 						"name": "Phosphorus deficiency"
+ 					}, {
+ 						"name": "Potassium deficiency"
+ 					}, {
+ 						"name": "Sulphur deficiency"
+ 					}, {
+ 						"name": "Zinc deficiency"
+ 					}, {
+ 						"name": "Calcium deficiency"
+ 					}]
+ 				}, {
+ 					"name": "Salinity stress",
+ 					"children": [{
+ 						"name": "Poor plant growth"
+ 					}, {
+ 						"name": "Nutrient imbalances",
+ 						"children": [{
+ 							"name": "Sulphur toxicity"
+ 						}, {
+ 							"name": "Manganese toxicity"
+ 						}, {
+ 							"name": "Boron toxicity"
+ 						}, {
+ 							"name": "Aluminium toxicity"
+ 						}, {
+ 							"name": "Chlorine toxicity"
+ 						}]
+ 					}, {
+ 						"name": "Specific ion toxicity"
+ 					}, {
+ 						"name": "Salt affected soil",
+ 						"children": [{
+ 							"name": "Salinity causing ion",
+ 							"children": [{
+ 								"name": "Bi-carbonate ion"
+ 							}, {
+ 								"name": "Calcium ion"
+ 							}, {
+ 								"name": "Chlorine ion"
+ 							}, {
+ 								"name": "Magnesium ion"
+ 							}, {
+ 								"name": "Nitrate ion"
+ 							}, {
+ 								"name": "Potassium ion"
+ 							}, {
+ 								"name": "Sodium ion"
+ 							}, {
+ 								"name": "Sulphate ion"
+ 							}]
+ 						}]
+ 					}, {
+ 						"name": "Waterlogging"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Adaptation type",
+ 				"children": [{
+ 					"name": "Metabolic adaptation"
+ 				}, {
+ 					"name": "Morphological adaptation"
+ 				}]
+ 			}]
+ 		}]
+ 	}, {
+ 		"name": "Entomology",
+ 		"children": [{
+ 			"name": "Pest population dynamics",
+ 			"children": [{
+ 				"name": "Pest population factors",
+ 				"children": [{
+ 					"name": "Abiotic factors"
+ 				}, {
+ 					"name": "Biotic factors"
+ 				}]
+ 			}, {
+ 				"name": "Population theory"
+ 			}, {
+ 				"name": "Ecological association",
+ 				"children": [{
+ 					"name": "Predation"
+ 				}, {
+ 					"name": "Competition"
+ 				}, {
+ 					"name": "Mutualism"
+ 				}]
+ 			}, {
+ 				"name": "Pest population"
+ 			}, {
+ 				"name": "Injury level",
+ 				"children": [{
+ 					"name": "Economic injury level"
+ 				}, {
+ 					"name": "Economic threshold"
+ 				}]
+ 			}, {
+ 				"name": "Defence mechanism"
+ 			}, {
+ 				"name": "Host pathogen relation"
+ 			}, {
+ 				"name": "Pests type",
+ 				"children": [{
+ 					"name": "Regular pest"
+ 				}, {
+ 					"name": "Sporadic pest"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Insect biology",
+ 			"children": [{
+ 				"name": "Insect structure"
+ 			}, {
+ 				"name": "Insect anatomy"
+ 			}, {
+ 				"name": "Insect behavior",
+ 				"children": [{
+ 					"name": "Insect communication",
+ 					"children": [{
+ 						"name": "Bee dances"
+ 					}, {
+ 						"name": "Stridulation"
+ 					}]
+ 				}, {
+ 					"name": "Swarming"
+ 				}, {
+ 					"name": "Trophallaxis"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Insect pathology",
+ 			"children": [{
+ 				"name": "Insect disease",
+ 				"children": [{
+ 					"name": "Chalk brood"
+ 				}, {
+ 					"name": "Colony collapse disorder"
+ 				}, {
+ 					"name": "European foul brood"
+ 				}, {
+ 					"name": "Milky disease"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Insect reproduction",
+ 			"children": [{
+ 				"name": "Larviposition"
+ 			}, {
+ 				"name": "Sex allocation"
+ 			}]
+ 		}, {
+ 			"name": "Insect physiology",
+ 			"children": [{
+ 				"name": "Eclosion"
+ 			}, {
+ 				"name": "Insect development",
+ 				"children": [{
+ 					"name": "Pupal development"
+ 				}]
+ 			}, {
+ 				"name": "Insect flight"
+ 			}, {
+ 				"name": "Metamorphosis",
+ 				"children": [{
+ 					"name": "Precocious metamorphosis"
+ 				}, {
+ 					"name": "Pupation"
+ 				}]
+ 			}, {
+ 				"name": "Molting",
+ 				"children": [{
+ 					"name": "Apolysis"
+ 				}, {
+ 					"name": "Ecdysis"
+ 				}]
+ 			}, {
+ 				"name": "Insect growth regulator",
+ 				"children": [{
+ 					"name": "Chitin synthesis inhibitor",
+ 					"children": [{
+ 						"name": "Benzoyl phenyl urea"
+ 					}, {
+ 						"name": "Buprofezin"
+ 					}, {
+ 						"name": "Chlorfluazuron"
+ 					}, {
+ 						"name": "Cyromazine"
+ 					}, {
+ 						"name": "Diflubenzuron"
+ 					}, {
+ 						"name": "Flufenoxuron"
+ 					}, {
+ 						"name": "Teflubenzuron"
+ 					}, {
+ 						"name": "Triflumuron"
+ 					}]
+ 				}, {
+ 					"name": "Juvenile hormone",
+ 					"children": [{
+ 						"name": "Juvenile hormone analogue",
+ 						"children": [{
+ 							"name": "Fenoxycarb"
+ 						}, {
+ 							"name": "Methoprene"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Moulting hormone"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Insect sociobiology",
+ 			"children": [{
+ 				"name": "Colony defense"
+ 			}, {
+ 				"name": "Insect caste",
+ 				"children": [{
+ 					"name": "Drone",
+ 					"children": [{
+ 						"name": "Worker honey bees"
+ 					}]
+ 				}, {
+ 					"name": "Queen",
+ 					"children": [{
+ 						"name": "Honey bee brood"
+ 					}]
+ 				}, {
+ 					"name": "Reproductive"
+ 				}, {
+ 					"name": "Soldier insect"
+ 				}, {
+ 					"name": "Worker insect"
+ 				}]
+ 			}, {
+ 				"name": "Insect colonies",
+ 				"children": [{
+ 					"name": "Honey bee colonies"
+ 				}, {
+ 					"name": "Insect brood"
+ 				}]
+ 			}, {
+ 				"name": "Polyethism"
+ 			}, {
+ 				"name": "Social parasitism",
+ 				"children": [{
+ 					"name": "Inquilinism"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Insect survey"
+ 		}, {
+ 			"name": "Insect product",
+ 			"children": [{
+ 				"name": "Honey bee product",
+ 				"children": [{
+ 					"name": "Beeswax"
+ 				}, {
+ 					"name": "Comb"
+ 				}, {
+ 					"name": "Honey"
+ 				}, {
+ 					"name": "Propolis"
+ 				}]
+ 			}, {
+ 				"name": "Silk"
+ 			}, {
+ 				"name": "Lac"
+ 			}]
+ 		}, {
+ 			"name": "Crop insect",
+ 			"children": [{
+ 				"name": "Cowpea insect",
+ 				"children": [{
+ 					"name": "Gram pod borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera"
+ 					}]
+ 				}, {
+ 					"name": "Spotted pod borer",
+ 					"children": [{
+ 						"name": "Maruca testulalis"
+ 					}]
+ 				}, {
+ 					"name": "Blue butterfly",
+ 					"children": [{
+ 						"name": "Lampides boeticus"
+ 					}]
+ 				}, {
+ 					"name": "Bean aphid",
+ 					"children": [{
+ 						"name": "Aphis craccivora"
+ 					}]
+ 				}, {
+ 					"name": "Leaf hopper",
+ 					"children": [{
+ 						"name": "Empoasca kerri"
+ 					}]
+ 				}, {
+ 					"name": "Bug",
+ 					"children": [{
+ 						"name": "Megacopta cribraria"
+ 					}]
+ 				}, {
+ 					"name": "Whitefly",
+ 					"children": [{
+ 						"name": "Bemisia tabaci"
+ 					}]
+ 				}, {
+ 					"name": "Leaf eating caterpillar",
+ 					"children": [{
+ 						"name": "Spilosoma obliqua"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Rose insect",
+ 				"children": [{
+ 					"name": "Rose aphid",
+ 					"children": [{
+ 						"name": "Macrosiphum rosae"
+ 					}]
+ 				}, {
+ 					"name": "Red scale",
+ 					"children": [{
+ 						"name": "Aonidiella aurantii"
+ 					}]
+ 				}, {
+ 					"name": "Thrips",
+ 					"children": [{
+ 						"name": "Rhipiphorothrips cruentatus"
+ 					}]
+ 				}, {
+ 					"name": "Gram pod borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Chrysanthemum insect",
+ 				"children": [{
+ 					"name": "Bud borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera���"
+ 					}]
+ 				}, {
+ 					"name": "Leaf folder",
+ 					"children": [{
+ 						"name": "Hedylepta indicata"
+ 					}]
+ 				}, {
+ 					"name": "Leaf miner",
+ 					"children": [{
+ 						"name": "Liriomyza trifolii"
+ 					}]
+ 				}, {
+ 					"name": "Hairy caterpillar",
+ 					"children": [{
+ 						"name": "Spilosoma obliqua"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Gladiolus insect",
+ 				"children": [{
+ 					"name": "Thrips",
+ 					"children": [{
+ 						"name": "Taeniothrips simplex"
+ 					}]
+ 				}, {
+ 					"name": "Cut worm",
+ 					"children": [{
+ 						"name": "Agrotis segetum"
+ 					}]
+ 				}, {
+ 					"name": "Tobacco cutworm",
+ 					"children": [{
+ 						"name": "Spodoptera litura"
+ 					}]
+ 				}, {
+ 					"name": "Mealy bug",
+ 					"children": [{
+ 						"name": "Ferrisia virgata"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Jasmine insect",
+ 				"children": [{
+ 					"name": "Budworm",
+ 					"children": [{
+ 						"name": "Hendecasis duplifascialis"
+ 					}]
+ 				}, {
+ 					"name": "Gallery worm",
+ 					"children": [{
+ 						"name": "Elasmopalpus jasminophagus"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Marigold insect",
+ 				"children": [{
+ 					"name": "Red spider mite",
+ 					"children": [{
+ 						"name": "Tetranychus species"
+ 					}]
+ 				}, {
+ 					"name": "Hairy caterpillar",
+ 					"children": [{
+ 						"name": "Diacrisia obliqua"
+ 					}]
+ 				}, {
+ 					"name": "Aphid",
+ 					"children": [{
+ 						"name": "Aphis gossypii"
+ 					}]
+ 				}, {
+ 					"name": "Thrips"
+ 				}, {
+ 					"name": "Bud caterpillar",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera���"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Tuberose insect",
+ 				"children": [{
+ 					"name": "Bud borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera���"
+ 					}]
+ 				}, {
+ 					"name": "Weevils",
+ 					"children": [{
+ 						"name": "Myllocerus species"
+ 					}]
+ 				}, {
+ 					"name": "Pentatomidae bug",
+ 					"children": [{
+ 						"name": "Nezara viridula"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Orchid insect",
+ 				"children": [{
+ 					"name": "Scale",
+ 					"children": [{
+ 						"name": "Diaspis boisduvalii"
+ 					}]
+ 				}, {
+ 					"name": "Mealybug",
+ 					"children": [{
+ 						"name": "Pseudococcus maritimus"
+ 					}]
+ 				}, {
+ 					"name": "Thrips",
+ 					"children": [{
+ 						"name": "Anaphothrips orchidaceus"
+ 					}]
+ 				}, {
+ 					"name": "Snail",
+ 					"children": [{
+ 						"name": "Achatina fullica"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Almond insect",
+ 				"children": [{
+ 					"name": "Almond weevil",
+ 					"children": [{
+ 						"name": "Myllocerus laetivirens"
+ 					}]
+ 				}, {
+ 					"name": "Aphid",
+ 					"children": [{
+ 						"name": "Brachycaudus helichrysi"
+ 					}]
+ 				}, {
+ 					"name": "Almond beetle",
+ 					"children": [{
+ 						"name": "Mimastra cyanura"
+ 					}]
+ 				}, {
+ 					"name": "San Jose scale",
+ 					"children": [{
+ 						"name": "Quadraspidiotus perniciosus"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Apple insect",
+ 				"children": [{
+ 					"name": "Wooly aphid",
+ 					"children": [{
+ 						"name": "Eriosoma lanigerum"
+ 					}]
+ 				}, {
+ 					"name": "San Jose scale",
+ 					"children": [{
+ 						"name": "Quadraspidiotus perniciosus"
+ 					}]
+ 				}, {
+ 					"name": "White scale",
+ 					"children": [{
+ 						"name": "Pseudaulacaspis species"
+ 					}]
+ 				}, {
+ 					"name": "Cockchafer beetle",
+ 					"children": [{
+ 						"name": "Adoretus duvauceli"
+ 					}]
+ 				}, {
+ 					"name": "Leaf roller",
+ 					"children": [{
+ 						"name": "Archips termid"
+ 					}]
+ 				}, {
+ 					"name": "Leopard moth",
+ 					"children": [{
+ 						"name": "Zeuzera multistrigata"
+ 					}]
+ 				}, {
+ 					"name": "Apple fruit moth",
+ 					"children": [{
+ 						"name": "Argyresthia conjugella"
+ 					}]
+ 				}, {
+ 					"name": "Tent caterpillar",
+ 					"children": [{
+ 						"name": "Malacosoma indica"
+ 					}]
+ 				}, {
+ 					"name": "Apple hawk moth",
+ 					"children": [{
+ 						"name": "Langia zizanioides"
+ 					}]
+ 				}, {
+ 					"name": "Hairy caterpillar",
+ 					"children": [{
+ 						"name": "Euproctis signata"
+ 					}]
+ 				}, {
+ 					"name": "Indian gypsy moth",
+ 					"children": [{
+ 						"name": "Lymantria obfuscata"
+ 					}]
+ 				}, {
+ 					"name": "Apple leaf miner",
+ 					"children": [{
+ 						"name": "Gracilaria zachrysa"
+ 					}]
+ 				}, {
+ 					"name": "Stem borer",
+ 					"children": [{
+ 						"name": "Apriona cinerea"
+ 					}]
+ 				}, {
+ 					"name": "European red spider mite",
+ 					"children": [{
+ 						"name": "Panonychus ulmi"
+ 					}]
+ 				}, {
+ 					"name": "Two spotted spider mite",
+ 					"children": [{
+ 						"name": "Tetranychus urticae"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Apricot insect",
+ 				"children": [{
+ 					"name": "Indian gypsy moth",
+ 					"children": [{
+ 						"name": "Lymantria obfuscata"
+ 					}]
+ 				}, {
+ 					"name": "Apricot chalcid",
+ 					"children": [{
+ 						"name": "Eurytoma samsonowi"
+ 					}]
+ 				}, {
+ 					"name": "Grey weevil",
+ 					"children": [{
+ 						"name": "Myllocerus discolor"
+ 					}]
+ 				}, {
+ 					"name": "Chafer beetle",
+ 					"children": [{
+ 						"name": "Anomala polita"
+ 					}]
+ 				}, {
+ 					"name": "Leaf roller",
+ 					"children": [{
+ 						"name": "Cacoecia epicryta"
+ 					}]
+ 				}, {
+ 					"name": "San Jose scale",
+ 					"children": [{
+ 						"name": "Quadraspidiotus perniciosus"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Bael insect",
+ 				"children": [{
+ 					"name": "Swallowtail butterfly",
+ 					"children": [{
+ 						"name": "Papilio demoleus"
+ 					}]
+ 				}, {
+ 					"name": "Peach fruit fly",
+ 					"children": [{
+ 						"name": "Bactrocera zonata"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Bananas insect",
+ 				"children": [{
+ 					"name": "Rhizome weevil",
+ 					"children": [{
+ 						"name": "Cosmopolites sordidus"
+ 					}]
+ 				}, {
+ 					"name": "Banana aphid",
+ 					"children": [{
+ 						"name": "Pentalonia nigronervosa"
+ 					}]
+ 				}, {
+ 					"name": "Flower thrips",
+ 					"children": [{
+ 						"name": "Thrips florum"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Cherry insect",
+ 				"children": [{
+ 					"name": "Stem borer",
+ 					"children": [{
+ 						"name": "Aeolesthes holosericea"
+ 					}]
+ 				}, {
+ 					"name": "Plum scale",
+ 					"children": [{
+ 						"name": "Eulecanium tiliae"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Citrus insect",
+ 				"children": [{
+ 					"name": "Lemon butterfly",
+ 					"children": [{
+ 						"name": "Papilio demoleus"
+ 					}]
+ 				}, {
+ 					"name": "Citrus leaf miner",
+ 					"children": [{
+ 						"name": "Phyllocnistis citrella"
+ 					}]
+ 				}, {
+ 					"name": "Citrus psylla",
+ 					"children": [{
+ 						"name": "Diaphorina citri"
+ 					}]
+ 				}, {
+ 					"name": "Whitefly",
+ 					"children": [{
+ 						"name": "Dialeurodes citri"
+ 					}]
+ 				}, {
+ 					"name": "Blackfly",
+ 					"children": [{
+ 						"name": "Aleurocanthus woglumi"
+ 					}]
+ 				}, {
+ 					"name": "Red scale",
+ 					"children": [{
+ 						"name": "Aonidiella aurantii"
+ 					}]
+ 				}, {
+ 					"name": "Brown scale",
+ 					"children": [{
+ 						"name": "Chrysomphalus aonidum"
+ 					}]
+ 				}, {
+ 					"name": "Green scale",
+ 					"children": [{
+ 						"name": "Coccus viridis"
+ 					}]
+ 				}, {
+ 					"name": "Mealy bug",
+ 					"children": [{
+ 						"name": "Planococcus citri"
+ 					}]
+ 				}, {
+ 					"name": "Citrus aphid",
+ 					"children": [{
+ 						"name": "Toxoptera citricidus"
+ 					}]
+ 				}, {
+ 					"name": "Fruit fly",
+ 					"children": [{
+ 						"name": "Dacus dorsalis"
+ 					}]
+ 				}, {
+ 					"name": "Citrus mite",
+ 					"children": [{
+ 						"name": "Eutetranychus orientalis"
+ 					}]
+ 				}, {
+ 					"name": "Shoot borer",
+ 					"children": [{
+ 						"name": "Oberea lateapicalis"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Custard apple insect",
+ 				"children": [{
+ 					"name": "Mealy bug",
+ 					"children": [{
+ 						"name": "Ferrisia virgata"
+ 					}]
+ 				}, {
+ 					"name": "Fruit borer",
+ 					"children": [{
+ 						"name": "Anonaepestis bengalella"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Fig insect",
+ 				"children": [{
+ 					"name": "Stem borer",
+ 					"children": [{
+ 						"name": "Batocera rufomaculata"
+ 					}]
+ 				}, {
+ 					"name": "Scale",
+ 					"children": [{
+ 						"name": "parlatoria oleae"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Grape insect",
+ 				"children": [{
+ 					"name": "Flea beetle",
+ 					"children": [{
+ 						"name": "Scelodonta strigicollis"
+ 					}]
+ 				}, {
+ 					"name": "Mealy bug",
+ 					"children": [{
+ 						"name": "Maconellicoccus hirsutus"
+ 					}]
+ 				}, {
+ 					"name": "Chafer beetle",
+ 					"children": [{
+ 						"name": "Adoretus species"
+ 					}]
+ 				}, {
+ 					"name": "Thrips",
+ 					"children": [{
+ 						"name": "Rhipiphorothrips cruentatus"
+ 					}]
+ 				}, {
+ 					"name": "Leaf roller",
+ 					"children": [{
+ 						"name": "Sylepta lunalis"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Guava insect",
+ 				"children": [{
+ 					"name": "Tea mosquito bug",
+ 					"children": [{
+ 						"name": "Helopeltis antonii"
+ 					}]
+ 				}, {
+ 					"name": "Fruit fly",
+ 					"children": [{
+ 						"name": "Bactrocera dorsalis"
+ 					}]
+ 				}, {
+ 					"name": "Green shield scale",
+ 					"children": [{
+ 						"name": "Chloropulvinaria psidii"
+ 					}]
+ 				}, {
+ 					"name": "Mealy bug",
+ 					"children": [{
+ 						"name": "Ferrisia virgata"
+ 					}]
+ 				}, {
+ 					"name": "Fruit sucking moth",
+ 					"children": [{
+ 						"name": "Othreis species"
+ 					}]
+ 				}, {
+ 					"name": "Spiralling white fly",
+ 					"children": [{
+ 						"name": "Aleurodicus dispersus"
+ 					}]
+ 				}, {
+ 					"name": "Scale insect",
+ 					"children": [{
+ 						"name": "Pulvinaria psidii"
+ 					}]
+ 				}, {
+ 					"name": "Bark-eating caterpillar",
+ 					"children": [{
+ 						"name": "Indarbela tertaonis"
+ 					}]
+ 				}, {
+ 					"name": "Leaf-eating insect",
+ 					"children": [{
+ 						"name": "Myllocerus maculorus"
+ 					}]
+ 				}, {
+ 					"name": "Mealy bug",
+ 					"children": [{
+ 						"name": "Cryptolaemus species"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Jack fruit insect",
+ 				"children": [{
+ 					"name": "Fruit borer",
+ 					"children": [{
+ 						"name": "Diaphania caesalis"
+ 					}]
+ 				}, {
+ 					"name": "Bud weevil",
+ 					"children": [{
+ 						"name": "Ochyromera artocarpi"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Litchi insect",
+ 				"children": [{
+ 					"name": "Fruit fly",
+ 					"children": [{
+ 						"name": "Bactocera dorsalis"
+ 					}]
+ 				}, {
+ 					"name": "Eriophyid mite",
+ 					"children": [{
+ 						"name": "Aceria litchi"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Onion insect",
+ 				"children": [{
+ 					"name": "Onion thrips",
+ 					"children": [{
+ 						"name": "Thrips tabaci"
+ 					}]
+ 				}, {
+ 					"name": "Onion fly",
+ 					"children": [{
+ 						"name": "Delia�antique"
+ 					}]
+ 				}, {
+ 					"name": "Cut worm",
+ 					"children": [{
+ 						"name": "Agrotis ipsilon"
+ 					}]
+ 				}, {
+ 					"name": "Mite",
+ 					"children": [{
+ 						"name": "Aceria tulipae"
+ 					}]
+ 				}, {
+ 					"name": "Head borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera"
+ 					}]
+ 				}, {
+ 					"name": "Onion maggot",
+ 					"children": [{
+ 						"name": "Hylemya antiqua"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Tomato insect",
+ 				"children": [{
+ 					"name": "Fruit borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera"
+ 					}]
+ 				}, {
+ 					"name": "Serpentine leaf miner",
+ 					"children": [{
+ 						"name": "Liriomyza trifolii"
+ 					}]
+ 				}, {
+ 					"name": "Leaf eating caterpillar",
+ 					"children": [{
+ 						"name": "Spodoptera litura"
+ 					}]
+ 				}, {
+ 					"name": "Whitefly",
+ 					"children": [{
+ 						"name": "Bemisia tabaci"
+ 					}]
+ 				}, {
+ 					"name": "Thrips",
+ 					"children": [{
+ 						"name": "Thrips tabaci"
+ 					}]
+ 				}, {
+ 					"name": "Striped mealybug",
+ 					"children": [{
+ 						"name": "Ferrisia virgata"
+ 					}]
+ 				}, {
+ 					"name": "Red spider mite",
+ 					"children": [{
+ 						"name": "Tetranychus species"
+ 					}]
+ 				}, {
+ 					"name": "Fruit sucking moth",
+ 					"children": [{
+ 						"name": "Othreis fullonica"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Brinjal insect",
+ 				"children": [{
+ 					"name": "Shoot and fruit borer",
+ 					"children": [{
+ 						"name": "Leucinodes orbonalis"
+ 					}]
+ 				}, {
+ 					"name": "Leaf eating beetle",
+ 					"children": [{
+ 						"name": "Epilachna vigintioctopunctata"
+ 					}]
+ 				}, {
+ 					"name": "Midge",
+ 					"children": [{
+ 						"name": "Asphondylia species"
+ 					}]
+ 				}, {
+ 					"name": "Jassids",
+ 					"children": [{
+ 						"name": "Amrasca biguttula biguttula"
+ 					}]
+ 				}, {
+ 					"name": "Leaf roller",
+ 					"children": [{
+ 						"name": "Antoba olivacea"
+ 					}]
+ 				}, {
+ 					"name": "Red spider mite",
+ 					"children": [{
+ 						"name": "Tetranychus neocaledonicus"
+ 					}]
+ 				}, {
+ 					"name": "Aphid",
+ 					"children": [{
+ 						"name": "Aphis gossypii"
+ 					}]
+ 				}, {
+ 					"name": "Leaf hopper",
+ 					"children": [{
+ 						"name": "Amrasca biguttula biguttula"
+ 					}]
+ 				}, {
+ 					"name": "Thrips",
+ 					"children": [{
+ 						"name": "Thrips palmi"
+ 					}]
+ 				}, {
+ 					"name": "Epilachna beetle",
+ 					"children": [{
+ 						"name": "Epilachna vigintioctopunctata"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Chilli insect",
+ 				"children": [{
+ 					"name": "Chilli thrips",
+ 					"children": [{
+ 						"name": "Scirtothrips dorsalis"
+ 					}]
+ 				}, {
+ 					"name": "Aphid",
+ 					"children": [{
+ 						"name": "Aphis gossypii"
+ 					}]
+ 				}, {
+ 					"name": "Cut worm",
+ 					"children": [{
+ 						"name": "Agrotis ipsilon"
+ 					}]
+ 				}, {
+ 					"name": "Fruit borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera"
+ 					}]
+ 				}, {
+ 					"name": "Fruit borer",
+ 					"children": [{
+ 						"name": "Spodoptera litura"
+ 					}]
+ 				}, {
+ 					"name": "Yellow mite",
+ 					"children": [{
+ 						"name": "Polyphagotarsonemus latus"
+ 					}]
+ 				}, {
+ 					"name": "White grub",
+ 					"children": [{
+ 						"name": "Anomala bengalensis"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Okra insect",
+ 				"children": [{
+ 					"name": "Shoot and fruit borer",
+ 					"children": [{
+ 						"name": "Earias vitella"
+ 					}]
+ 				}, {
+ 					"name": "Fruit borer",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera"
+ 					}]
+ 				}, {
+ 					"name": "Leaf hopper",
+ 					"children": [{
+ 						"name": "Amrasca biguttele biguttele"
+ 					}]
+ 				}, {
+ 					"name": "Stem weevil",
+ 					"children": [{
+ 						"name": "Pempherulus affinis"
+ 					}]
+ 				}, {
+ 					"name": "Leaf roller",
+ 					"children": [{
+ 						"name": "Sylepta derogata"
+ 					}]
+ 				}, {
+ 					"name": "Semilooper",
+ 					"children": [{
+ 						"name": "Anomis flava"
+ 					}]
+ 				}, {
+ 					"name": "Whitefly",
+ 					"children": [{
+ 						"name": "Bemisia tabaci"
+ 					}]
+ 				}, {
+ 					"name": "Jassids",
+ 					"children": [{
+ 						"name": "Amrasca devastans"
+ 					}]
+ 				}, {
+ 					"name": "Aphid",
+ 					"children": [{
+ 						"name": "Aphis gossypii"
+ 					}]
+ 				}, {
+ 					"name": "Mite",
+ 					"children": [{
+ 						"name": "Tetranychus cinnabarinus"
+ 					}]
+ 				}, {
+ 					"name": "Red cotton bug",
+ 					"children": [{
+ 						"name": "Dysdercus cingulatus"
+ 					}]
+ 				}, {
+ 					"name": "Okra stemfly",
+ 					"children": [{
+ 						"name": "Melanagromyza hibisci"
+ 					}]
+ 				}, {
+ 					"name": "Blister beetle",
+ 					"children": [{
+ 						"name": "Mylabris pustulata"
+ 					}]
+ 				}, {
+ 					"name": "Petiole maggot",
+ 					"children": [{
+ 						"name": "Melanagromyza hibisci"
+ 					}]
+ 				}, {
+ 					"name": "Dusky cotton bug",
+ 					"children": [{
+ 						"name": "Oxycarenus laetus"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Cucurbits insect",
+ 				"children": [{
+ 					"name": "Fruit fly",
+ 					"children": [{
+ 						"name": "Bactrocera cucurbitae"
+ 					}]
+ 				}, {
+ 					"name": "Pumpkin beetle",
+ 					"children": [{
+ 						"name": "Aulacophora cincta"
+ 					}]
+ 				}, {
+ 					"name": "Red pumpkin beetle",
+ 					"children": [{
+ 						"name": "Aulacophora lewisii"
+ 					}]
+ 				}, {
+ 					"name": "Red pumpkin beetle",
+ 					"children": [{
+ 						"name": "Aulacophora foveicollis"
+ 					}]
+ 				}, {
+ 					"name": "Stem gall fly",
+ 					"children": [{
+ 						"name": "Neolasioptera falcata"
+ 					}]
+ 				}, {
+ 					"name": "Snake gourd semilooper",
+ 					"children": [{
+ 						"name": "Plusia peponis"
+ 					}]
+ 				}, {
+ 					"name": "Pumpkin caterpillar",
+ 					"children": [{
+ 						"name": "Diaphania indica"
+ 					}]
+ 				}, {
+ 					"name": "Bottle gourd plume moth",
+ 					"children": [{
+ 						"name": "Sphenarches caffer"
+ 					}]
+ 				}, {
+ 					"name": "Leaf miner",
+ 					"children": [{
+ 						"name": "Liriomyza trifolii"
+ 					}]
+ 				}, {
+ 					"name": "Blister beetle",
+ 					"children": [{
+ 						"name": "Mylabris pustulata"
+ 					}]
+ 				}, {
+ 					"name": "Stink bug",
+ 					"children": [{
+ 						"name": "Coridius brunneus"
+ 					}]
+ 				}, {
+ 					"name": "Aphid",
+ 					"children": [{
+ 						"name": "Aphis gossypii"
+ 					}]
+ 				}, {
+ 					"name": "Mite",
+ 					"children": [{
+ 						"name": "Tetranychus neocaledonicus"
+ 					}]
+ 				}, {
+ 					"name": "Thrips",
+ 					"children": [{
+ 						"name": "Thrips tabaci"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Cole crop insect",
+ 				"children": [{
+ 					"name": "Diamond back moth",
+ 					"children": [{
+ 						"name": "Plutella xylostella"
+ 					}]
+ 				}, {
+ 					"name": "Cabbage borer",
+ 					"children": [{
+ 						"name": "Hellula undalis"
+ 					}]
+ 				}, {
+ 					"name": "Leaf webber",
+ 					"children": [{
+ 						"name": "Crocidolomia binotalis��"
+ 					}]
+ 				}, {
+ 					"name": "Cabbage green semilooper",
+ 					"children": [{
+ 						"name": "Trichoplusia ni"
+ 					}]
+ 				}, {
+ 					"name": "Cabbage butterfly",
+ 					"children": [{
+ 						"name": "Pieris brassicae"
+ 					}]
+ 				}, {
+ 					"name": "Tobacco caterpillar",
+ 					"children": [{
+ 						"name": "Spodoptera litura"
+ 					}]
+ 				}, {
+ 					"name": "Gram caterpillar",
+ 					"children": [{
+ 						"name": "Helicoverpa armigera"
+ 					}]
+ 				}, {
+ 					"name": "Cabbage aphid",
+ 					"children": [{
+ 						"name": "Brevicoryne brassicae"
+ 					}]
+ 				}, {
+ 					"name": "Mustard sawfly",
+ 					"children": [{
+ 						"name": "Athalia lugens proxima"
+ 					}]
+ 				}, {
+ 					"name": "Striped flea beetle",
+ 					"children": [{
+ 						"name": "Phyllotreta striolata"
+ 					}]
+ 				}, {
+ 					"name": "Painted bug",
+ 					"children": [{
+ 						"name": "Bagrada cruciferarum"
+ 					}]
+ 				}, {
+ 					"name": "Mustard aphid",
+ 					"children": [{
+ 						"name": "Lipaphis erysimi"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Amaranthus insect",
+ 				"children": [{
+ 					"name": "Stem weevil",
+ 					"children": [{
+ 						"name": "Hypolixus truncatus"
+ 					}]
+ 				}, {
+ 					"name": "Aphid",
+ 					"children": [{
+ 						"name": "Aphis craccivora"
+ 					}]
+ 				}, {
+ 					"name": "Scale",
+ 					"children": [{
+ 						"name": "Coccus hesperidium"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Sweet potato insect",
+ 				"children": [{
+ 					"name": "Green leaf hopper",
+ 					"children": [{
+ 						"name": "Empoasca kerri"
+ 					}]
+ 				}, {
+ 					"name": "Green peach aphid",
+ 					"children": [{
+ 						"name": "Myzus persicae"
+ 					}]
+ 				}, {
+ 					"name": "Whitefly",
+ 					"children": [{
+ 						"name": "Bemisia tabaci"
+ 					}]
+ 				}, {
+ 					"name": "Sweet potato weevil",
+ 					"children": [{
+ 						"name": "Cylas formicarius"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Potato insect",
+ 				"children": [{
+ 					"name": "Potato black cut worm",
+ 					"children": [{
+ 						"name": "Agrotis ipsilon"
+ 					}]
+ 				}, {
+ 					"name": "Potato tuber moth",
+ 					"children": [{
+ 						"name": "Phthorimaea operculella"
+ 					}]
+ 				}, {
+ 					"name": "Potato aphid",
+ 					"children": [{
+ 						"name": "Myzus persicae"
+ 					}]
+ 				}, {
+ 					"name": "Mite",
+ 					"children": [{
+ 						"name": "Hemitarsonemus latus"
+ 					}]
+ 				}]
+ 			}, {
+ 				"name": "Storage pest",
+ 				"children": [{
+ 					"name": "Almond moth",
+ 					"children": [{
+ 						"name": "Trogoderma granarium"
+ 					}]
+ 				}, {
+ 					"name": "Sweet potato weevil",
+ 					"children": [{
+ 						"name": "Cylas formicarius"
+ 					}]
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Other pest",
+ 			"children": [{
+ 				"name": "Bird",
+ 				"children": [{
+ 					"name": "Black bird"
+ 				}, {
+ 					"name": "Crow"
+ 				}, {
+ 					"name": "Dove"
+ 				}, {
+ 					"name": "Duck"
+ 				}, {
+ 					"name": "Parrot"
+ 				}, {
+ 					"name": "Pigeon"
+ 				}, {
+ 					"name": "Quelea"
+ 				}, {
+ 					"name": "Sparrow"
+ 				}, {
+ 					"name": "Starling"
+ 				}, {
+ 					"name": "Woodpecker"
+ 				}]
+ 			}, {
+ 				"name": "Rodent",
+ 				"children": [{
+ 					"name": "Bandicoot"
+ 				}, {
+ 					"name": "Gerbils"
+ 				}, {
+ 					"name": "Mice"
+ 				}, {
+ 					"name": "Porcupine"
+ 				}, {
+ 					"name": "Rat"
+ 				}, {
+ 					"name": "Squirrel"
+ 				}]
+ 			}]
+ 		}, {
+ 			"name": "Pest management",
+ 			"children": [{
+ 				"name": "Protection technology"
+ 			}, {
+ 				"name": "Integrated pest management"
+ 			}, {
+ 				"name": "Pest control program"
+ 			}, {
+ 				"name": "Pest monitoring",
+ 				"children": [{
+ 					"name": "Regional monitoring"
+ 				}, {
+ 					"name": "Localized monitoring"
+ 				}]
+ 			}, {
+ 				"name": "Pest control",
+ 				"children": [{
+ 					"name": "Disease control"
+ 				}, {
+ 					"name": "Insect control"
+ 				}, {
+ 					"name": "Nematode control"
+ 				}, {
+ 					"name": "Bird control"
+ 				}, {
+ 					"name": "Ant control"
+ 				}, {
+ 					"name": "Flea control"
+ 				}, {
+ 					"name": "Mating disruption"
+ 				}, {
+ 					"name": "Mosquito control"
+ 				}, {
+ 					"name": "Sterile insect technique"
+ 				}, {
+ 					"name": "Termite control"
+ 				}, {
+ 					"name": "Mite control"
+ 				}, {
+ 					"name": "Mollusc control"
+ 				}, {
+ 					"name": "Predator control"
+ 				}, {
+ 					"name": "Rodent control"
+ 				}, {
+ 					"name": "Biological control",
+ 					"children": [{
+ 						"name": "Biological disease control"
+ 					}, {
+ 						"name": "Biological insect pest control"
+ 					}, {
+ 						"name": "Biological control agent",
+ 						"children": [{
+ 							"name": "Parasite",
+ 							"children": [{
+ 								"name": "Acarapis woodi"
+ 							}, {
+ 								"name": "Tropilaelaps clareae"
+ 							}, {
+ 								"name": "Varroa jacobsoni"
+ 							}]
+ 						}, {
+ 							"name": "Parasitoid",
+ 							"children": [{
+ 								"name": "Brachymeria intermedia"
+ 							}, {
+ 								"name": "Braconid",
+ 								"children": [{
+ 									"name": "Bracon brevicornis"
+ 								}, {
+ 									"name": "Bracon hebetor"
+ 								}]
+ 							}, {
+ 								"name": "Campoletis sonorensis"
+ 							}, {
+ 								"name": "Chelonus"
+ 							}, {
+ 								"name": "Cotesia flavipes"
+ 							}, {
+ 								"name": "Cotesia glomerata"
+ 							}, {
+ 								"name": "Cotesia plutellae"
+ 							}, {
+ 								"name": "Diadegma semiclausum"
+ 							}, {
+ 								"name": "Diaeretiella rapae"
+ 							}, {
+ 								"name": "Encarsia formosa"
+ 							}, {
+ 								"name": "Tetrastichus julis"
+ 							}, {
+ 								"name": "Tetrastichus radiatus"
+ 							}, {
+ 								"name": "Trichogrammatid",
+ 								"children": [{
+ 									"name": "Trichogramma chilonis"
+ 								}, {
+ 									"name": "Trichogramma japonicum"
+ 								}, {
+ 									"name": "Trichogramma minutum"
+ 								}]
+ 							}, {
+ 								"name": "Ichneumonid"
+ 							}, {
+ 								"name": "Scelionid"
+ 							}, {
+ 								"name": "Encyrtid"
+ 							}, {
+ 								"name": "Eulophid"
+ 							}]
+ 						}, {
+ 							"name": "Pathogen",
+ 							"children": [{
+ 								"name": "Bacillus cereus"
+ 							}, {
+ 								"name": "Bacillus popilliae"
+ 							}, {
+ 								"name": "Bacillus sphaericus"
+ 							}, {
+ 								"name": "Bacillus thuringiensis"
+ 							}, {
+ 								"name": "Pseudomonas aeruginosa"
+ 							}, {
+ 								"name": "Serratia"
+ 							}, {
+ 								"name": "Entomophagous fungi",
+ 								"children": [{
+ 									"name": "Rhinocladiella"
+ 								}]
+ 							}, {
+ 								"name": "Beauveria bassiana"
+ 							}, {
+ 								"name": "Hirsutella thompsonii"
+ 							}, {
+ 								"name": "Metarhizium anisopliae"
+ 							}, {
+ 								"name": "Nosema apis"
+ 							}, {
+ 								"name": "Nosema bombycis"
+ 							}, {
+ 								"name": "Nosema locustae"
+ 							}, {
+ 								"name": "Granulosis viruses"
+ 							}, {
+ 								"name": "Nuclear polyhedrosis virus"
+ 							}]
+ 						}, {
+ 							"name": "Predator",
+ 							"children": [{
+ 								"name": "Entomophilic nematodes",
+ 								"children": [{
+ 									"name": "Heterorhabditis bacteriophora"
+ 								}, {
+ 									"name": "Steinernema carpocapsae"
+ 								}]
+ 							}, {
+ 								"name": "Photorhabdus luminescens"
+ 							}, {
+ 								"name": "Xenorhabdus nematophilus"
+ 							}, {
+ 								"name": "Frogs"
+ 							}, {
+ 								"name": "Lizards"
+ 							}, {
+ 								"name": "Predatory bird",
+ 								"children": [{
+ 									"name": "Eagle"
+ 								}, {
+ 									"name": "Owl"
+ 								}]
+ 							}, {
+ 								"name": "Predatory Insect",
+ 								"children": [{
+ 									"name": "Syrphid fly",
+ 									"children": [{
+ 										"name": "Episyrphus balteatus"
+ 									}]
+ 								}, {
+ 									"name": "Dragon fly"
+ 								}, {
+ 									"name": "Anthocoris nemoralis"
+ 								}, {
+ 									"name": "Aphidoletes aphidimyza"
+ 								}, {
+ 									"name": "Chrysoperla carnea"
+ 								}, {
+ 									"name": "Coccinella septempunctata"
+ 								}, {
+ 									"name": "Chilocorus bijugus"
+ 								}, {
+ 									"name": "Cryptolaemus montrouzieri"
+ 								}, {
+ 									"name": "Cyrtorhinus lividipennis"
+ 								}, {
+ 									"name": "Sphaerophoria bengalensis"
+ 								}, {
+ 									"name": "Menochilus sexmaculatus"
+ 								}, {
+ 									"name": "Rodolia cardinalis"
+ 								}]
+ 							}, {
+ 								"name": "Ant",
+ 								"children": [{
+ 									"name": "Myrmica species"
+ 								}]
+ 							}, {
+ 								"name": "Snakes"
+ 							}, {
+ 								"name": "Spider mite"
+ 							}, {
+ 								"name": "Spiders",
+ 								"children": [{
+ 									"name": "Amblyseius andersoni"
+ 								}, {
+ 									"name": "Amblyseius barkeri"
+ 								}, {
+ 									"name": "Amblyseius potentillae"
+ 								}, {
+ 									"name": "Neoseiulus cucumeris"
+ 								}, {
+ 									"name": "Phytoseiulus persimilis"
+ 								}]
+ 							}, {
+ 								"name": "Monkey"
+ 							}]
+ 						}, {
+ 							"name": "Rickettsiae"
+ 						}, {
+ 							"name": "Weed pathogen",
+ 							"children": [{
+ 								"name": "Puccinia abrupta var. partheniicola"
+ 							}, {
+ 								"name": "Puccinia melampodii"
+ 							}, {
+ 								"name": "Fusarium semitectum"
+ 							}, {
+ 								"name": "Sclerotium rolfsii"
+ 							}]
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Chemical control",
+ 					"children": [{
+ 						"name": "Antifeedant",
+ 						"children": [{
+ 							"name": "Baygon"
+ 						}, {
+ 							"name": "Chlorinated triphenyl methane"
+ 						}, {
+ 							"name": "Triphenyl sulfonium salt"
+ 						}, {
+ 							"name": "Organotins"
+ 						}, {
+ 							"name": "Phlorizin"
+ 						}, {
+ 							"name": "Pyrethrum"
+ 						}, {
+ 							"name": "Solanine"
+ 						}, {
+ 							"name": "Phenyl carbamates"
+ 						}, {
+ 							"name": "Triazines"
+ 						}]
+ 					}, {
+ 						"name": "Attractant",
+ 						"children": [{
+ 							"name": "Geraniol"
+ 						}, {
+ 							"name": "Methyl eugenol"
+ 						}, {
+ 							"name": "Sinigrin"
+ 						}, {
+ 							"name": "Cinnamaldehyde"
+ 						}, {
+ 							"name": "Molasses"
+ 						}, {
+ 							"name": "Sex attractant",
+ 							"children": [{
+ 								"name": "Eugenol"
+ 							}, {
+ 								"name": "Pheromones"
+ 							}]
+ 						}]
+ 					}, {
+ 						"name": "Pesticide",
+ 						"children": [{
+ 							"name": "Insecticide",
+ 							"children": [{
+ 								"name": "Organochlorine insecticide",
+ 								"children": [{
+ 									"name": "Chlordane"
+ 								}, {
+ 									"name": "Chlordecone"
+ 								}, {
+ 									"name": "Endosulfan"
+ 								}, {
+ 									"name": "Methoxychlor"
+ 								}, {
+ 									"name": "Pentachlorophenol"
+ 								}, {
+ 									"name": "Polychlorobenzoic acid"
+ 								}]
+ 							}, {
+ 								"name": "Organophosphorus insecticide",
+ 								"children": [{
+ 									"name": "Acephate"
+ 								}, {
+ 									"name": "Chlorfenvinphos"
+ 								}, {
+ 									"name": "Heptenophos"
+ 								}, {
+ 									"name": "Isofenphos"
+ 								}, {
+ 									"name": "Methamidophos"
+ 								}, {
+ 									"name": "Azinphos-methyl"
+ 								}, {
+ 									"name": "Bromophos"
+ 								}, {
+ 									"name": "Chlorpyrifos"
+ 								}, {
+ 									"name": "Chlorpyrifos-methyl"
+ 								}, {
+ 									"name": "Demeton-s-methyl"
+ 								}, {
+ 									"name": "Malathion"
+ 								}, {
+ 									"name": "Methidathion"
+ 								}, {
+ 									"name": "Oxydemeton-methyl"
+ 								}, {
+ 									"name": "Parathion"
+ 								}, {
+ 									"name": "Parathion-methyl"
+ 								}, {
+ 									"name": "Phosmet"
+ 								}, {
+ 									"name": "Pirimiphos-methyl"
+ 								}, {
+ 									"name": "Profenofos"
+ 								}, {
+ 									"name": "Pyrazophos"
+ 								}, {
+ 									"name": "Quinalphos"
+ 								}, {
+ 									"name": "Temephos"
+ 								}]
+ 							}, {
+ 								"name": "Pyrethroid insecticide",
+ 								"children": [{
+ 									"name": "Acrinathrin"
+ 								}, {
+ 									"name": "Allethrin"
+ 								}, {
+ 									"name": "Bifenthrin"
+ 								}, {
+ 									"name": "Bioallethrin"
+ 								}, {
+ 									"name": "Bioresmethrin"
+ 								}, {
+ 									"name": "Cyfluthrin"
+ 								}, {
+ 									"name": "Deltamethrin"
+ 								}, {
+ 									"name": "Esfenvalerate"
+ 								}, {
+ 									"name": "Etofenprox"
+ 								}, {
+ 									"name": "Fenpropathrin"
+ 								}, {
+ 									"name": "Fenvalerate"
+ 								}, {
+ 									"name": "Flucythrinate"
+ 								}, {
+ 									"name": "Fluvalinate"
+ 								}, {
+ 									"name": "Cyhalothrin"
+ 								}, {
+ 									"name": "Permethrin"
+ 								}, {
+ 									"name": "Phenothrin"
+ 								}, {
+ 									"name": "Resmethrin"
+ 								}, {
+ 									"name": "Tefluthrin"
+ 								}, {
+ 									"name": "Tetramethrin"
+ 								}]
+ 							}, {
+ 								"name": "Contact poison insecticide",
+ 								"children": [{
+ 									"name": "Carbaryl"
+ 								}]
+ 							}, {
+ 								"name": "Systemic poison insecticide",
+ 								"children": [{
+ 									"name": "Carbofuran"
+ 								}]
+ 							}, {
+ 								"name": "Stomach poison insecticide",
+ 								"children": [{
+ 									"name": "Zinc phosphide"
+ 								}]
+ 							}, {
+ 								"name": "Fumigant insecticide",
+ 								"children": [{
+ 									"name": "Acrylonitrile"
+ 								}, {
+ 									"name": "Carbon disulfide"
+ 								}, {
+ 									"name": "Carbon tetrachloride"
+ 								}, {
+ 									"name": "Carbonyl sulfide"
+ 								}, {
+ 									"name": "Chloroform"
+ 								}, {
+ 									"name": "Para-dichlorobenzene"
+ 								}, {
+ 									"name": "12-dichloropropane"
+ 								}, {
+ 									"name": "Ethylene dichloride"
+ 								}, {
+ 									"name": "Ethylene oxide"
+ 								}, {
+ 									"name": "Methylchloroform"
+ 								}, {
+ 									"name": "Methylene chloride"
+ 								}, {
+ 									"name": "Naphthalene"
+ 								}, {
+ 									"name": "Phosphine"
+ 								}, {
+ 									"name": "Sodium tetrathiocarbonate"
+ 								}, {
+ 									"name": "Sulfuryl fluoride"
+ 								}, {
+ 									"name": "Tetrachloroethane"
+ 								}]
+ 							}, {
+ 								"name": "Botanical insecticide",
+ 								"children": [{
+ 									"name": "Allicin"
+ 								}, {
+ 									"name": "Anabasine"
+ 								}, {
+ 									"name": "Azadirachtin"
+ 								}, {
+ 									"name": "D-limonene"
+ 								}, {
+ 									"name": "Matrine"
+ 								}, {
+ 									"name": "Nicotine"
+ 								}, {
+ 									"name": "Nornicotine"
+ 								}, {
+ 									"name": "Oxymatrine"
+ 								}, {
+ 									"name": "Pyrethrins",
+ 									"children": [{
+ 										"name": "Cinerin"
+ 									}, {
+ 										"name": "Jasmolin"
+ 									}]
+ 								}, {
+ 									"name": "Quassia"
+ 								}, {
+ 									"name": "Rotenone"
+ 								}, {
+ 									"name": "Ryania"
+ 								}, {
+ 									"name": "Sabadilla"
+ 								}, {
+ 									"name": "Sanguinarine"
+ 								}, {
+ 									"name": "Triptolide"
+ 								}]
+ 							}]
+ 						}, {
+ 							"name": "Fungicide",
+ 							"children": [{
+ 								"name": "Aliphatic nitrogen fungicide",
+ 								"children": [{
+ 									"name": "Butylamine"
+ 								}, {
+ 									"name": "Dodine"
+ 								}]
+ 							}, {
+ 								"name": "Acylamino acid fungicide",
+ 								"children": [{
+ 									"name": "Benalaxyl",
+ 									"children": [{
+ 										"name": "Benalaxyl-M"
+ 									}]
+ 								}, {
+ 									"name": "Furalaxyl"
+ 								}, {
+ 									"name": "Metalaxyl",
+ 									"children": [{
+ 										"name": "Metalaxyl-M"
+ 									}]
+ 								}]
+ 							}, {
+ 								"name": "Anilide fungicide",
+ 								"children": [{
+ 									"name": "Bixafen"
+ 								}, {
+ 									"name": "Boscalid"
+ 								}, {
+ 									"name": "Fenhexamid"
+ 								}]
+ 							}, {
+ 								"name": "Aromatic fungicide",
+ 								"children": [{
+ 									"name": "Biphenyl"
+ 								}, {
+ 									"name": "Chlorodinitronaphthalenes"
+ 								}, {
+ 									"name": "Chloroneb"
+ 								}, {
+ 									"name": "Chlorothalonil"
+ 								}, {
+ 									"name": "Hexachlorobenzene"
+ 								}, {
+ 									"name": "Pentachlorophenol"
+ 								}, {
+ 									"name": "Quintozene"
+ 								}, {
+ 									"name": "Sodium pentachlorophenoxide"
+ 								}]
+ 							}, {
+ 								"name": "Arsenical fungicide"
+ 							}, {
+ 								"name": "Benzimidazole fungicide",
+ 								"children": [{
+ 									"name": "Albendazole"
+ 								}, {
+ 									"name": "Benomyl"
+ 								}, {
+ 									"name": "Carbendazim"
+ 								}, {
+ 									"name": "Debacarb"
+ 								}, {
+ 									"name": "Thiabendazole"
+ 								}]
+ 							}, {
+ 								"name": "Botanical fungicide",
+ 								"children": [{
+ 									"name": "Berberine"
+ 								}, {
+ 									"name": "Carvone"
+ 								}, {
+ 									"name": "Sanguinarine"
+ 								}, {
+ 									"name": "Santonin"
+ 								}]
+ 							}, {
+ 								"name": "Carbamate fungicide",
+ 								"children": [{
+ 									"name": "Iodocarb"
+ 								}, {
+ 									"name": "Iprovalicarb"
+ 								}, {
+ 									"name": "Propamocarb"
+ 								}, {
+ 									"name": "Pyribencarb"
+ 								}, {
+ 									"name": "Thiophanate"
+ 								}, {
+ 									"name": "Thiophanate-methyl"
+ 								}]
+ 							}, {
+ 								"name": "Copper fungicide",
+ 								"children": [{
+ 									"name": "Bordeaux mixture"
+ 								}, {
+ 									"name": "Burgundy mixture"
+ 								}, {
+ 									"name": "Copper acetate"
+ 								}, {
+ 									"name": "Copper carbonate"
+ 								}, {
+ 									"name": "Copper hydroxide"
+ 								}, {
+ 									"name": "Copper naphthenate"
+ 								}, {
+ 									"name": "Copper oxychloride"
+ 								}, {
+ 									"name": "Copper silicate"
+ 								}, {
+ 									"name": "Copper sulfate"
+ 								}]
+ 							}, {
+ 								"name": "Cyanoacrylate fungicide"
+ 							}, {
+ 								"name": "Dicarboximide fungicide",
+ 								"children": [{
+ 									"name": "Dichlorophenyl dicarboximide fungicide",
+ 									"children": [{
+ 										"name": "Chlozolinate"
+ 									}, {
+ 										"name": "Dichlozoline"
+ 									}, {
+ 										"name": "Iprodione"
+ 									}, {
+ 										"name": "Isovaledione"
+ 									}, {
+ 										"name": "Myclozolin"
+ 									}, {
+ 										"name": "Procymidone"
+ 									}, {
+ 										"name": "Vinclozolin"
+ 									}]
+ 								}, {
+ 									"name": "Phthalimide fungicide",
+ 									"children": [{
+ 										"name": "Captan"
+ 									}, {
+ 										"name": "Ditalimfos"
+ 									}, {
+ 										"name": "Folpet"
+ 									}, {
+ 										"name": "Thiochlorfenphim"
+ 									}]
+ 								}]
+ 							}, {
+ 								"name": "Dinitrophenol fungicide",
+ 								"children": [{
+ 									"name": "Dinobuton"
+ 								}, {
+ 									"name": "Dinocap",
+ 									"children": [{
+ 										"name": "Dinocap-4"
+ 									}, {
+ 										"name": "Dinocap-6"
+ 									}, {
+ 										"name": "Meptyldinocap"
+ 									}]
+ 								}, {
+ 									"name": "Dinocton"
+ 								}, {
+ 									"name": "Dinopenton"
+ 								}, {
+ 									"name": "Dinosulfon"
+ 								}, {
+ 									"name": "Dinoterbon"
+ 								}, {
+ 									"name": "DNOC"
+ 								}]
+ 							}, {
+ 								"name": "Dithiocarbamate fungicide",
+ 								"children": [{
+ 									"name": "Amobam"
+ 								}, {
+ 									"name": "Asomate"
+ 								}, {
+ 									"name": "Azithiram"
+ 								}, {
+ 									"name": "Carbamorph"
+ 								}, {
+ 									"name": "Cufraneb"
+ 								}, {
+ 									"name": "Cuprobam"
+ 								}, {
+ 									"name": "Disulfiram"
+ 								}, {
+ 									"name": "Nabam"
+ 								}, {
+ 									"name": "Tecoram"
+ 								}, {
+ 									"name": "Thiram"
+ 								}, {
+ 									"name": "Ziram",
+ 									"children": [{
+ 										"name": "Cyclic dithiocarbamate fungicide",
+ 										"children": [{
+ 											"name": "Dazomet"
+ 										}, {
+ 											"name": "Etem"
+ 										}, {
+ 											"name": "Milneb"
+ 										}]
+ 									}, {
+ 										"name": "Polymeric dithiocarbamate fungicide",
+ 										"children": [{
+ 											"name": "Mancopper"
+ 										}, {
+ 											"name": "Maneb"
+ 										}]
+ 									}]
+ 								}]
+ 							}, {
+ 								"name": "Dithiolane fungicide",
+ 								"children": [{
+ 									"name": "Isoprothiolane"
+ 								}]
+ 							}, {
+ 								"name": "Fumigant fungicide",
+ 								"children": [{
+ 									"name": "Cyanogen"
+ 								}, {
+ 									"name": "Sodium tetrathiocarbonate"
+ 								}]
+ 							}, {
+ 								"name": "Hydrazide fungicide",
+ 								"children": [{
+ 									"name": "Benquinox"
+ 								}]
+ 							}, {
+ 								"name": "Imidazole fungicide",
+ 								"children": [{
+ 									"name": "Cyazofamid"
+ 								}, {
+ 									"name": "Fenamidone"
+ 								}, {
+ 									"name": "Fenapanil"
+ 								}, {
+ 									"name": "Glyodin"
+ 								}, {
+ 									"name": "Triazoxide"
+ 								}]
+ 							}, {
+ 								"name": "Inorganic fungicide",
+ 								"children": [{
+ 									"name": "Potassium azide"
+ 								}, {
+ 									"name": "Potassium thiocyanate"
+ 								}, {
+ 									"name": "Sulfur"
+ 								}]
+ 							}, {
+ 								"name": "Mercury fungicide",
+ 								"children": [{
+ 									"name": "Inorganic mercury fungicide",
+ 									"children": [{
+ 										"name": "Mercuric chloride"
+ 									}, {
+ 										"name": "Mercuric oxide"
+ 									}, {
+ 										"name": "Mercurous chloride"
+ 									}]
+ 								}, {
+ 									"name": "Organomercury fungicide",
+ 									"children": [{
+ 										"name": "Mercury bromide"
+ 									}, {
+ 										"name": "Ethylmercury acetate"
+ 									}, {
+ 										"name": "Ethylmercury bromide"
+ 									}, {
+ 										"name": "Ethylmercury chloride"
+ 									}, {
+ 										"name": "Ethylmercury phosphate"
+ 									}, {
+ 										"name": "Methylmercury benzoate"
+ 									}, {
+ 										"name": "Methylmercury dicyandiamide"
+ 									}, {
+ 										"name": "Methylmercury pentachlorophenoxide"
+ 									}, {
+ 										"name": "Phenylmercuriurea"
+ 									}, {
+ 										"name": "Phenylmercury acetate"
+ 									}, {
+ 										"name": "Phenylmercury chloride"
+ 									}, {
+ 										"name": "Phenylmercury nitrate"
+ 									}, {
+ 										"name": "Phenylmercury salicylate"
+ 									}]
+ 								}]
+ 							}, {
+ 								"name": "Morpholine fungicide",
+ 								"children": [{
+ 									"name": "Aldimorph"
+ 								}, {
+ 									"name": "Benzamorf"
+ 								}, {
+ 									"name": "Dimethomorph"
+ 								}, {
+ 									"name": "Dodemorph"
+ 								}, {
+ 									"name": "Fenpropimorph"
+ 								}, {
+ 									"name": "Flumorph"
+ 								}, {
+ 									"name": "Tridemorph"
+ 								}]
+ 							}, {
+ 								"name": "Organophosphorus fungicide",
+ 								"children": [{
+ 									"name": "EBP"
+ 								}, {
+ 									"name": "Edifenphos"
+ 								}, {
+ 									"name": "Iprobenfos"
+ 								}, {
+ 									"name": "Izopamfos"
+ 								}, {
+ 									"name": "Kejunlin"
+ 								}, {
+ 									"name": "Triamiphos"
+ 								}]
+ 							}, {
+ 								"name": "Organotin fungicide",
+ 								"children": [{
+ 									"name": "Decafentin"
+ 								}, {
+ 									"name": "Fentin"
+ 								}, {
+ 									"name": "Tributyltin oxide"
+ 								}]
+ 							}, {
+ 								"name": "Oxathiin fungicide",
+ 								"children": [{
+ 									"name": "Carboxin"
+ 								}, {
+ 									"name": "Oxycarboxin"
+ 								}]
+ 							}, {
+ 								"name": "Oxazole fungicide"
+ 							}, {
+ 								"name": "Polysulfide fungicide",
+ 								"children": [{
+ 									"name": "Barium polysulfide"
+ 								}, {
+ 									"name": "Calcium polysulfide"
+ 								}, {
+ 									"name": "Potassium polysulfide"
+ 								}, {
+ 									"name": "Sodium polysulfide"
+ 								}]
+ 							}, {
+ 								"name": "Triazine fungicide",
+ 								"children": [{
+ 									"name": "Anilazine"
+ 								}, {
+ 									"name": "Triazole fungicide"
+ 								}, {
+ 									"name": "Amisulbrom"
+ 								}, {
+ 									"name": "Bitertanol"
+ 								}, {
+ 									"name": "Fluotrimazole"
+ 								}]
+ 							}, {
+ 								"name": "Zinc fungicide",
+ 								"children": [{
+ 									"name": "Copper zinc chromate"
+ 								}, {
+ 									"name": "Mancozeb"
+ 								}, {
+ 									"name": "Metiram"
+ 								}, {
+ 									"name": "Polycarbamate"
+ 								}, {
+ 									"name": "Propineb"
+ 								}, {
+ 									"name": "Zinc naphthenate"
+ 								}, {
+ 									"name": "Zinc thiazole"
+ 								}, {
+ 									"name": "Zinc trichlorophenoxide"
+ 								}, {
+ 									"name": "Zineb"
+ 								}]
+ 							}, {
+ 								"name": "Unclassified fungicide",
+ 								"children": [{
+ 									"name": "Allyl alcohol"
+ 								}, {
+ 									"name": "Benzalkonium chloride"
+ 								}, {
+ 									"name": "Chitosan"
+ 								}, {
+ 									"name": "DBCP"
+ 								}, {
+ 									"name": "Furfural"
+ 								}, {
+ 									"name": "Phthalide"
+ 								}, {
+ 									"name": "Propamidine"
+ 								}]
+ 							}]
+ 						}, {
+ 							"name": "Bactericide",
+ 							"children": [{
+ 								"name": "Amicarthiazol"
+ 							}, {
+ 								"name": "Bismerthiazol"
+ 							}, {
+ 								"name": "Bronopol"
+ 							}, {
+ 								"name": "Cellocidin"
+ 							}, {
+ 								"name": "Chloramphenicol"
+ 							}, {
+ 								"name": "Cresol"
+ 							}, {
+ 								"name": "Dichlorophen"
+ 							}, {
+ 								"name": "Dipyrithione"
+ 							}, {
+ 								"name": "Dodicin"
+ 							}, {
+ 								"name": "Ethylicin"
+ 							}, {
+ 								"name": "Fenaminosulf"
+ 							}, {
+ 								"name": "Formaldehyde"
+ 							}, {
+ 								"name": "Hexachlorophene"
+ 							}, {
+ 								"name": "Nitrapyrin"
+ 							}, {
+ 								"name": "Oxolinic acid"
+ 							}, {
+ 								"name": "Oxytetracycline"
+ 							}, {
+ 								"name": "Phenazine oxide"
+ 							}, {
+ 								"name": "Probenazole"
+ 							}, {
+ 								"name": "Streptomycin"
+ 							}, {
+ 								"name": "Thiodiazole copper"
+ 							}, {
+ 								"name": "Thiomersal"
+ 							}]
+ 						}, {
+ 							"name": "Rodenticide",
+ 							"children": [{
+ 								"name": "Botanical rodenticide",
+ 								"children": [{
+ 									"name": "Scilliroside"
+ 								}, {
+ 									"name": "Strychnine"
+ 								}]
+ 							}, {
+ 								"name": "Carbanilate rodenticide"
+ 							}, {
+ 								"name": "Coumarin rodenticide",
+ 								"children": [{
+ 									"name": "Brodifacoum"
+ 								}, {
+ 									"name": "Bromadiolone"
+ 								}, {
+ 									"name": "Coumachlor"
+ 								}, {
+ 									"name": "Coumafuryl"
+ 								}, {
+ 									"name": "Coumatetralyl"
+ 								}, {
+ 									"name": "Dicoumarol"
+ 								}, {
+ 									"name": "Difenacoum"
+ 								}, {
+ 									"name": "Difethialone"
+ 								}, {
+ 									"name": "Flocoumafen"
+ 								}]
+ 							}, {
+ 								"name": "Inorganic rodenticide",
+ 								"children": [{
+ 									"name": "Arsenous oxide"
+ 								}, {
+ 									"name": "Potassium arsenite"
+ 								}, {
+ 									"name": "Sodium arsenite"
+ 								}, {
+ 									"name": "Thallium sulfate"
+ 								}]
+ 							}, {
+ 								"name": "Organochlorine rodenticide",
+ 								"children": [{
+ 									"name": "Gamma-HCH"
+ 								}, {
+ 									"name": "HCH"
+ 								}]
+ 							}, {
+ 								"name": "Organofluorine rodenticide",
+ 								"children": [{
+ 									"name": "Fluoroacetamide"
+ 								}, {
+ 									"name": "Fluoroacetic acid"
+ 								}, {
+ 									"name": "Sodium fluoroacetate"
+ 								}]
+ 							}, {
+ 								"name": "Organophosphorus rodenticide"
+ 							}, {
+ 								"name": "Pyrimidinamine rodenticide",
+ 								"children": [{
+ 									"name": "Crimidine"
+ 								}]
+ 							}, {
+ 								"name": "Thiourea rodenticide",
+ 								"children": [{
+ 									"name": "Promurit"
+ 								}, {
+ 									"name": "Thiosemicarbazide"
+ 								}]
+ 							}, {
+ 								"name": "Urea rodenticide",
+ 								"children": [{
+ 									"name": "Pyrinuron"
+ 								}]
+ 							}, {
+ 								"name": "Unclassified rodenticide",
+ 								"children": [{
+ 									"name": "Bromethalin"
+ 								}, {
+ 									"name": "?-chlorohydrin"
+ 								}, {
+ 									"name": "Cholecalciferol"
+ 								}, {
+ 									"name": "Curcumenol"
+ 								}, {
+ 									"name": "Hydrogen cyanide"
+ 								}, {
+ 									"name": "Norbormide"
+ 								}, {
+ 									"name": "Paris green"
+ 								}, {
+ 									"name": "Tetramine"
+ 								}]
+ 							}]
+ 						}, {
+ 							"name": "Acaricide",
+ 							"children": [{
+ 								"name": "Botanical acaricide",
+ 								"children": [{
+ 									"name": "Carvacrol"
+ 								}, {
+ 									"name": "Sanguinarine"
+ 								}]
+ 							}, {
+ 								"name": "Bridged diphenyl acaricide",
+ 								"children": [{
+ 									"name": "Azobenzene"
+ 								}, {
+ 									"name": "Benzoximate"
+ 								}, {
+ 									"name": "Chlorfensulphide"
+ 								}, {
+ 									"name": "Dicofol"
+ 								}, {
+ 									"name": "Diphenyl sulfone"
+ 								}, {
+ 									"name": "Fenson"
+ 								}]
+ 							}, {
+ 								"name": "Carbamate acaricide",
+ 								"children": [{
+ 									"name": "Methiocarb"
+ 								}, {
+ 									"name": "Metolcarb"
+ 								}, {
+ 									"name": "Propoxur"
+ 								}]
+ 							}, {
+ 								"name": "Oxime carbamate acaricide",
+ 								"children": [{
+ 									"name": "Oxamyl"
+ 								}, {
+ 									"name": "Thiofanox"
+ 								}]
+ 							}, {
+ 								"name": "Avermectin acaricide",
+ 								"children": [{
+ 									"name": "Abamectin"
+ 								}, {
+ 									"name": "Ivermectin"
+ 								}]
+ 							}, {
+ 								"name": "Organochlorine acaricide",
+ 								"children": [{
+ 									"name": "Bromocyclen"
+ 								}, {
+ 									"name": "Camphechlor"
+ 								}, {
+ 									"name": "DDT"
+ 								}]
+ 							}, {
+ 								"name": "Organophosphorus acaricide",
+ 								"children": [{
+ 									"name": "Organophosphate acaricide",
+ 									"children": [{
+ 										"name": "Dichlorvos"
+ 									}, {
+ 										"name": "Tetrachlorvinphos"
+ 									}]
+ 								}, {
+ 									"name": "Organothiophosphate acaricide",
+ 									"children": [{
+ 										"name": "Azothoate"
+ 									}, {
+ 										"name": "Coumaphos"
+ 									}, {
+ 										"name": "Ethion"
+ 									}, {
+ 										"name": "Phosalone"
+ 									}, {
+ 										"name": "Phoxim"
+ 									}]
+ 								}]
+ 							}, {
+ 								"name": "Organotin acaricide",
+ 								"children": [{
+ 									"name": "Cyhexatin"
+ 								}]
+ 							}, {
+ 								"name": "Phthalimide acaricide"
+ 							}]
+ 						}, {
+ 							"name": "Avicide",
+ 							"children": [{
+ 								"name": "Aminopyridine"
+ 							}]
+ 						}, {
+ 							"name": "Molluscicide",
+ 							"children": [{
+ 								"name": "Bromoacetamide"
+ 							}, {
+ 								"name": "Ferric phosphate"
+ 							}, {
+ 								"name": "Metaldehyde"
+ 							}, {
+ 								"name": "Niclosamide"
+ 							}, {
+ 								"name": "Pentachlorophenol"
+ 							}]
+ 						}, {
+ 							"name": "Nematicide",
+ 							"children": [{
+ 								"name": "Avermectin nematicide"
+ 							}, {
+ 								"name": "Botanical nematicide"
+ 							}, {
+ 								"name": "Carbamate nematicide",
+ 								"children": [{
+ 									"name": "Carbosulfan"
+ 								}]
+ 							}, {
+ 								"name": "Fumigant nematicide",
+ 								"children": [{
+ 									"name": "Dithioether"
+ 								}, {
+ 									"name": "Methyl iodide"
+ 								}, {
+ 									"name": "Sodium tetrathiocarbonate"
+ 								}]
+ 							}, {
+ 								"name": "Organophosphorus nematicide",
+ 								"children": [{
+ 									"name": "Organophosphate nematicide",
+ 									"children": [{
+ 										"name": "Fenamiphos"
+ 									}, {
+ 										"name": "Phosphamidon"
+ 									}]
+ 								}, {
+ 									"name": "Organothiophosphate nematicide",
+ 									"children": [{
+ 										"name": "Dichlofenthion"
+ 									}, {
+ 										"name": "Dimethoate"
+ 									}, {
+ 										"name": "Ethoprophos"
+ 									}, {
+ 										"name": "Fensulfothion"
+ 									}, {
+ 										"name": "Phorate"
+ 									}, {
+ 										"name": "Phosphocarb"
+ 									}, {
+ 										"name": "Terbufos"
+ 									}, {
+ 										"name": "Thionazin"
+ 									}, {
+ 										"name": "Triazophos"
+ 									}]
+ 								}]
+ 							}, {
+ 								"name": "Unclassified nematicide",
+ 								"children": [{
+ 									"name": "Chloropicrin"
+ 								}, {
+ 									"name": "Metam"
+ 								}, {
+ 									"name": "Methyl isothiocyanate"
+ 								}, {
+ 									"name": "Tioxazafen"
+ 								}, {
+ 									"name": "Xylenol"
+ 								}]
+ 							}]
+ 						}, {
+ 							"name": "Repellent",
+ 							"children": [{
+ 								"name": "Creosote"
+ 							}, {
+ 								"name": "Diacetyl pthalate"
+ 							}, {
+ 								"name": "Dimetyl pthalate"
+ 							}, {
+ 								"name": "N N-diethyl-meta-toulamide"
+ 							}, {
+ 								"name": "Naphtalene ball"
+ 							}, {
+ 								"name": "N-butylacetanilide"
+ 							}, {
+ 								"name": "Pentachlorophenol"
+ 							}, {
+ 								"name": "Pine tar oil"
+ 							}, {
+ 								"name": "Anthraquinone"
+ 							}, {
+ 								"name": "Chloralose"
+ 							}, {
+ 								"name": "Guazatine"
+ 							}, {
+ 								"name": "Trimethacarb"
+ 							}]
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Cultural pest control",
+ 					"children": [{
+ 						"name": "Cultural disease control"
+ 					}, {
+ 						"name": "Cultural insect control"
+ 					}, {
+ 						"name": "Cultural pest control method",
+ 						"children": [{
+ 							"name": "Balanced fertilization"
+ 						}, {
+ 							"name": "Resistance variety",
+ 							"children": [{
+ 								"name": "Drought resistance"
+ 							}, {
+ 								"name": "Frost resistance"
+ 							}, {
+ 								"name": "Pest resistance"
+ 							}, {
+ 								"name": "Physiological stress resistance"
+ 							}, {
+ 								"name": "Temperature resistance"
+ 							}, {
+ 								"name": "Wind resistance"
+ 							}, {
+ 								"name": "Winter hardiness"
+ 							}]
+ 						}, {
+ 							"name": "Planting time"
+ 						}, {
+ 							"name": "Seed rate"
+ 						}, {
+ 							"name": "Plant diversity"
+ 						}, {
+ 							"name": "Crop rotation"
+ 						}, {
+ 							"name": "Water management"
+ 						}, {
+ 							"name": "Sanitation",
+ 							"children": [{
+ 								"name": "Field sanitation"
+ 							}, {
+ 								"name": "Equipment sanitation"
+ 							}]
+ 						}, {
+ 							"name": "Harvesting practice"
+ 						}, {
+ 							"name": "Roguing"
+ 						}, {
+ 							"name": "Tillage",
+ 							"children": [{
+ 								"name": "Summer tillage"
+ 							}]
+ 						}, {
+ 							"name": "Trap crop"
+ 						}]
+ 					}]
+ 				}, {
+ 					"name": "Genetic control",
+ 					"children": [{
+ 						"name": "Sterile insect release"
+ 					}]
+ 				}, {
+ 					"name": "Mechanical pest control",
+ 					"children": [{
+ 						"name": "Bagging (pest control)"
+ 					}, {
+ 						"name": "Netting"
+ 					}, {
+ 						"name": "Storage structure"
+ 					}, {
+ 						"name": "Light trap"
+ 					}, {
+ 						"name": "Hand picking"
+ 					}]
+ 				}, {
+ 					"name": "Physical control",
+ 					"children": [{
+ 						"name": "Irradiation",
+ 						"children": [{
+ 							"name": "Gamma irradiation"
+ 						}, {
+ 							"name": "Ionization treatment"
+ 						}, {
+ 							"name": "X-ray irradiation"
+ 						}, {
+ 							"name": "Ultraviolet irradiation"
+ 						}]
+ 					}, {
+ 						"name": "Hot treatment"
+ 					}, {
+ 						"name": "Sound",
+ 						"children": [{
+ 							"name": "Ultrasonic treatment"
+ 						}]
+ 					}, {
+ 						"name": "Thermal control"
+ 					}]
+ 				}, {
+ 					"name": "Legal control",
+ 					"children": [{
+ 						"name": "Legal disease control"
+ 					}, {
+ 						"name": "Legal insect pest control"
+ 					}, {
+ 						"name": "Laws",
+ 						"children": [{
+ 							"name": "The insecticides Act 1968"
+ 						}, {
+ 							"name": "The Prevention of Food Adulteration Act 1954"
+ 						}]
+ 					}, {
+ 						"name": "Phytosanitary measures"
+ 					}, {
+ 						"name": "Quarantine"
+ 					}, {
+ 						"name": "Registration"
+ 					}, {
+ 						"name": "Banned pesticides in India",
+ 						"children": [{
+ 							"name": "Banned for manufacture import and use",
+ 							"children": [{
+ 								"name": "Aldicarb"
+ 							}, {
+ 								"name": "Aldrin"
+ 							}, {
+ 								"name": "Benzene hexachloride"
+ 							}, {
+ 								"name": "Calcium cyanide"
+ 							}, {
+ 								"name": "Copper acetoarsenite"
+ 							}, {
+ 								"name": "Dibromochloropropane"
+ 							}, {
+ 								"name": "Dieldrin"
+ 							}, {
+ 								"name": "Endrin"
+ 							}, {
+ 								"name": "Ethyl mercury chloride"
+ 							}, {
+ 								"name": "Ethyl parathion"
+ 							}, {
+ 								"name": "Ethylene dibromide"
+ 							}, {
+ 								"name": "Heptachlor"
+ 							}, {
+ 								"name": "Lindane"
+ 							}, {
+ 								"name": "Maleic hydrazide"
+ 							}, {
+ 								"name": "Menazon"
+ 							}, {
+ 								"name": "Metoxuron"
+ 							}, {
+ 								"name": "Nitrofen"
+ 							}, {
+ 								"name": "Paraquat dimethyl sulphate"
+ 							}, {
+ 								"name": "Pentachloro nitrobenzene"
+ 							}, {
+ 								"name": "Pentachlorophenol"
+ 							}, {
+ 								"name": "Phenyl mercury acetate"
+ 							}, {
+ 								"name": "Sodium methane arsonate"
+ 							}, {
+ 								"name": "Toxaphene"
+ 							}, {
+ 								"name": "Trichloro acetic acid"
+ 							}]
+ 						}, {
+ 							"name": "Pesticide formulation banned for manufacture import and use",
+ 							"children": [{
+ 								"name": "Carbofuran 50% SP"
+ 							}, {
+ 								"name": "Methomyl 12.5% L"
+ 							}, {
+ 								"name": "Methomyl 24% formulation"
+ 							}, {
+ 								"name": "Phosphamidon 85% SL"
+ 							}]
+ 						}, {
+ 							"name": "Banned for use but manufacture for export",
+ 							"children": [{
+ 								"name": "Captafol 80% powder"
+ 							}, {
+ 								"name": "Nicotine sulfate"
+ 							}]
+ 						}, {
+ 							"name": "Pesticides withdrawn",
+ 							"children": [{
+ 								"name": "Dalapon"
+ 							}, {
+ 								"name": "Ferbam"
+ 							}, {
+ 								"name": "Nickel chloride"
+ 							}, {
+ 								"name": "Paradichlorobenzene"
+ 							}, {
+ 								"name": "Simazine"
+ 							}, {
+ 								"name": "Warfarin"
+ 							}]
+ 						}, {
+ 							"name": "Pesticides refused registration",
+ 							"children": [{
+ 								"name": "245-T"
+ 							}, {
+ 								"name": "Ammonium sulphamate"
+ 							}, {
+ 								"name": "Azinphos-ethyl"
+ 							}, {
+ 								"name": "Calcium arsenate"
+ 							}, {
+ 								"name": "Carbophenothion"
+ 							}, {
+ 								"name": "Dicrotophos"
+ 							}, {
+ 								"name": "Fentin acetate"
+ 							}, {
+ 								"name": "Fentin hydroxide"
+ 							}, {
+ 								"name": "Lead arsenate"
+ 							}, {
+ 								"name": "Leptophos"
+ 							}, {
+ 								"name": "Mevinphos"
+ 							}, {
+ 								"name": "Disulfoton"
+ 							}, {
+ 								"name": "Vamidothion"
+ 							}]
+ 						}, {
+ 							"name": "Pesticide restricted for use",
+ 							"children": [{
+ 								"name": "Aluminium Phosphide"
+ 							}, {
+ 								"name": "Captafol"
+ 							}, {
+ 								"name": "Cypermethrin"
+ 							}, {
+ 								"name": "Diazinon"
+ 							}, {
+ 								"name": "Dichloro Diphenyl Trichloroethane (DDT)"
+ 							}, {
+ 								"name": "Fenitrothion"
+ 							}, {
+ 								"name": "Fenthion"
+ 							}, {
+ 								"name": "Methoxy Ethyl Mercuric Chloride (MEMC)"
+ 							}, {
+ 								"name": "Methyl bromide"
+ 							}, {
+ 								"name": "Methyl parathion"
+ 							}, {
+ 								"name": "Monocrotophos"
+ 							}, {
+ 								"name": "Sodium cyanide"
+ 							}]
+ 						}]
+ 					}]
+ 				}]
+ 			}]
+ 		}]
+ 	}]
+ }
